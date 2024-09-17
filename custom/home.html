@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basit HTML Sayfası</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .hero {
+            position: relative;
+            height: 100vh;
+            background: url('path-to-your-image.jpg') no-repeat center center;
+            background-size: cover;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .hero-content {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .hero h1 {
+            font-size: 4rem;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 1.5rem;
+        }
+        .cta-button {
+            background-color: #1e88e5;
+            color: #fff;
+            padding: 15px 25px;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 1.2rem;
+            transition: background-color 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #1565c0;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar-fixed">
+        <div class="container">
+            <a href="#" class="brand-logo">Proje Adı</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="index.md">Ana Sayfa</a></li>
+                <li><a href="about.md">Hakkında</a></li>
+                <li><a href="contact.md">İletişim</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="hero">
+        <div class="hero-content">
+            <h1>Hoşgeldiniz!</h1>
+            <p>Bu, ana sayfanız için özel bir tasarımdır.</p>
+            <a href="about.md" class="cta-button">Daha Fazla Bilgi</a>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 Tüm Hakları Saklıdır
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>

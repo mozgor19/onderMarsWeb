@@ -1,0 +1,61 @@
+site_name: MARS Projesi | Eğitim İçerikleri
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: blue grey
+      accent: light green
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: black
+      accent: lime
+  language: tr
+  name: material
+  custom_dir: custom
+
+plugins:
+  - mkdocs-pdf
+  - social:
+      cards_layout_options:
+        background_color: "#003b52"
+        font-family: Ubuntu
+        logo: img/cv_icon.png
+        title: "mozgor.cv"
+        description: "mozgor personal webpage"
+  - search
+  - open-in-new-tab
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
