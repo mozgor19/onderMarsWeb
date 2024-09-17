@@ -41,7 +41,7 @@ theme:
       accent: lime
   language: tr
   name: material
-  custom_dir: custom
+  custom_dir: docs/custom
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
