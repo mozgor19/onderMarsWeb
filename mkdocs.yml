@@ -12,8 +12,6 @@ theme:
   logo: assets/mars-logo.png
   features:
     - header.autohide
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.tabs
     - navigation.sections
     - navigation.tracking
