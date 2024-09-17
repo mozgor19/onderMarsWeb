@@ -11836,7 +11836,7 @@ pre .code {
 }
 
 .header .overlay .subtitle {
-  margin-top: -20px;
+  margin-top: 40px;
   font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
   font-weight: 300;
 }
@@ -11852,6 +11852,7 @@ pre .code {
 
 @media (max-width: 767.98px) {
   .header .overlay .subtitle {
+    padding-top: 150px;
     margin-top: 0;
   }
 }
