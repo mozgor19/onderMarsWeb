@@ -1,4 +1,9 @@
-SAYFA2
+---
+title: Edebiyat
+description: Hafta X
+---
+
+# **Edebiyat**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit, neque vestibulum lobortis finibus, augue sapien ullamcorper leo, ac blandit metus ipsum in risus. Ut fermentum justo ut diam lobortis, eget venenatis quam convallis. Maecenas non dui libero. Aliquam erat volutpat. Nulla sagittis augue id sem aliquet, non pulvinar quam pretium. Donec viverra augue ut iaculis convallis. Vestibulum euismod, mi quis pellentesque efficitur, mauris risus aliquam neque, volutpat lobortis arcu metus consequat dolor. Ut placerat non lorem a lacinia. In sodales nisi eget nisl eleifend scelerisque. Maecenas suscipit sapien ut odio faucibus volutpat. Aliquam ac consectetur nunc. Cras mauris nisi, varius vitae augue at, egestas fermentum enim. Morbi leo turpis, dignissim id sapien quis, vestibulum volutpat neque. Etiam vel erat ut orci ultricies posuere. Donec mauris eros, bibendum nec dapibus et, malesuada id elit.
 

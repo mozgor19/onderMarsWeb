@@ -1,3 +1,8 @@
+---
+title: Ekonomi ve Ticaret
+description: Hafta X
+---
+
 # **Ekonomi ve Ticaret**
 
 ## Karadelik Haftası

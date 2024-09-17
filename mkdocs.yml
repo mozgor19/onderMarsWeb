@@ -1,12 +1,16 @@
 site_name: MARS Projesi | Eğitim İçerikleri
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Sayfa1: sayfa1.md
-  - Sayfa2: sayfa2.md
-  - Sayfa3: sayfa3.md
-  - Sayfa4: sayfa4.md
+  - Anasayfa: index.md
+  - Eğitim: about.md
+  - Medya ve İletişim: medya-iletisim.md
+  - Uluslararası Hukuk: int-hukuk.md
+  - Ekonomi ve Ticaret: econ-ticaret.md
+  - Edebiyat: edebiyat.md
+  - Sanayi ve Teknoloji: sanayi-teknoloji.md
+  - Sürdürülebilirlik: surdurulebilirlik.md
+  - Psikoloji ve Sosyoloji: psy-soc.md
+  - Tarih: hist.md
 
 theme:
   logo: assets/mars-logo.png
