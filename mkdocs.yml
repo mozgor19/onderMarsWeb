@@ -1,6 +1,6 @@
 site_name: MARS Projesi | Eğitim İçerikleri
-site_url: https://mozgor19/onderMarsWeb/
-base_url: /onderMarsWeb/
+site_url: https://mozgor19.github.io/onderMarsWeb/
+base-url: /onderMarsWeb/
 
 nav:
   - Anasayfa: index.md
@@ -9,6 +9,7 @@ nav:
   - Uluslararası Hukuk: int-hukuk.md
   - Ekonomi ve Ticaret: econ-ticaret.md
   - Edebiyat: edebiyat.md
+  - Sanat ve Zanaat: sanat-zanaat.md
   - Sanayi ve Teknoloji: sanayi-teknoloji.md
   - Sürdürülebilirlik: surdurulebilirlik.md
   - Psikoloji ve Sosyoloji: psy-soc.md
@@ -49,6 +50,8 @@ theme:
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
+
+use_directory_urls: false
 
 plugins:
   - mkdocs-pdf
