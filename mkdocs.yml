@@ -3,15 +3,26 @@ site_name: MARS Projesi | Eğitim İçerikleri
 nav:
   - Home: index.md
   - About: about.md
+  - Sayfa1: sayfa1.md
+  - Sayfa2: sayfa2.md
+  - Sayfa3: sayfa3.md
+  - Sayfa4: sayfa4.md
 
 theme:
+  logo: assets/mars-logo.png
   features:
+    - header.autohide
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    - navigation.tracking
+    - navigation.expand
     - navigation.top
+    - toc.integrate
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -31,16 +42,16 @@ theme:
   language: tr
   name: material
   custom_dir: custom
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
 
 plugins:
   - mkdocs-pdf
   - social:
       cards_layout_options:
-        background_color: "#003b52"
-        font-family: Ubuntu
-        logo: img/cv_icon.png
-        title: "mozgor.cv"
-        description: "mozgor personal webpage"
+        background_color: "#dd3900"
+        color: "#dd3900"
   - search
   - open-in-new-tab
   - glightbox:
@@ -59,3 +70,20 @@ plugins:
       background: white
       shadow: true
       manual: false
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/onderiho
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/marsgirisim/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/user/onderimamhatip
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/ONDERihl
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: |
+  &copy; 2024 <a href="https://onder.org.tr/projeler/genclik-projeleri/mars-girisim"  target="_blank" rel="noopener">ÖNDER</a>

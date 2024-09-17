@@ -1,0 +1,75 @@
+:root {
+    --md-primary-fg-color:        #dd3900;
+    --md-primary-fg-color--light: #ffffff;
+    --md-primary-fg-color--dark:  #90030C;
+    --md-text-font: "Cardium"; 
+  }
+
+[data-md-color-scheme="mars"] {
+    --md-primary-fg-color:        #dd370055;
+    --md-primary-fg-color--light: #d5d5d5;
+    --md-primary-fg-color--dark:  #7d2102;
+  }
+
+  @font-face {
+    font-family: 'Cardium A Regular';
+    src: url('fonts/cardium-a-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium Black';
+    src: url('fonts/cardiuma-black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium Bold';
+    src: url('fonts/cardiuma-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium ExtraBold';
+    src: url('fonts/cardiuma-extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium Hairline';
+    src: url('fonts/cardiuma-hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium Light';
+    src: url('fonts/cardiuma-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium Medium';
+    src: url('fonts/cardiuma-medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium SemiBold';
+    src: url('fonts/cardiuma-semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cardium Thin';
+    src: url('fonts/cardiuma-thin.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
