@@ -9,8 +9,6 @@ description: Hafta X
 
 ---
 
-### İçerik 1
-
 **Başlık:** Devrim Arabaları
 
 **İçerik Türü:** Film
@@ -23,29 +21,9 @@ description: Hafta X
 
 !!! info ""
 
-    Bu film ile ülkemizde mühendislik adına çığır açıcı işler yapmış olan bir şahsiyeti tanımanız ve ilham almanız hedeflenmiştir.
+    Bu film ile ülkemizde geçmişten günümüze sanayinin ve üretimin değerlendirilmesi hedeflenmiştir.
 
 <iframe width="1078" height="606" src="https://www.youtube.com/embed/1pExvMoeJjk?si=jVMdDdob1uQ9siwJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### İçerik 2
-
-**Başlık:** Hürkuş: Göklerdeki Kahraman
-
-**İçerik Türü:** Film
-
-??? quote "Beyaz Perde Özeti"
-
-    I. Dünya Savaşı ve Kurtuluş Savaşı’nda görev yapan, düşman uçağı düşüren ilk Türk pilot olan Vecihi Hürkuş’un hayatı beyaz perdeye aktarılıyor. Henüz 16 yaşındayken uçma sevdasının peşinden giden Vecihi Hürkuş, hayatını uçak üretmeye ve yeni pilotlar eğitmeye adadı.  Türk havacılık tarihinin en önemli isimlerinden pilot ve mühendis Vecihi Hürkuş'un hayatının anlatılacağı filmin yönetmenliğini Kudret Sabancı’nın üstleniyor. Senaryosunu Savaş Korkmaz’ın kaleme aldığı filmin oyuncu kadrosunda Hilmicem İntepe, Gizem Karaca, Miray Daner, Bora Akkaş, Zeyno Eracar, Murat Arkın, Bahadır Yenişehirlioğlu gibi isimler yer alıyor.
-
-    [Detaylı bilgi için tıklayınız](https://www.beyazperde.com/filmler/film-261733/)
-
-!!! info ""
-
-    Bu film ile ülkemizde mühendislik adına çığır açıcı işler yapmış olan bir şahsiyeti tanımanız ve ilham almanız hedeflenmiştir.
-
-<iframe width="1078" height="606" src="https://www.youtube.com/embed/5EFM18YFsWI?si=68qDGt5gA0x75DBD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
