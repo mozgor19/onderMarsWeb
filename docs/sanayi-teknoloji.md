@@ -5,24 +5,55 @@ description: Hafta X
 
 # **Sanayi ve Teknoloji**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit, neque vestibulum lobortis finibus, augue sapien ullamcorper leo, ac blandit metus ipsum in risus. Ut fermentum justo ut diam lobortis, eget venenatis quam convallis. Maecenas non dui libero. Aliquam erat volutpat. Nulla sagittis augue id sem aliquet, non pulvinar quam pretium. Donec viverra augue ut iaculis convallis. Vestibulum euismod, mi quis pellentesque efficitur, mauris risus aliquam neque, volutpat lobortis arcu metus consequat dolor. Ut placerat non lorem a lacinia. In sodales nisi eget nisl eleifend scelerisque. Maecenas suscipit sapien ut odio faucibus volutpat. Aliquam ac consectetur nunc. Cras mauris nisi, varius vitae augue at, egestas fermentum enim. Morbi leo turpis, dignissim id sapien quis, vestibulum volutpat neque. Etiam vel erat ut orci ultricies posuere. Donec mauris eros, bibendum nec dapibus et, malesuada id elit.
+## Karadelik Haftası
 
-In lorem quam, sollicitudin ac nunc vel, vestibulum consequat augue. Proin ullamcorper sollicitudin lacus quis pulvinar. Cras maximus risus quis mi ornare porta. Aliquam non turpis hendrerit, faucibus libero ut, vehicula tellus. Quisque eu dapibus neque. Pellentesque feugiat, tellus ac porttitor convallis, metus dui faucibus massa, vitae posuere risus neque vehicula orci. Maecenas ipsum purus, egestas vel sem in, molestie mattis lectus. Maecenas pulvinar, metus aliquam mollis gravida, mi nulla euismod sem, vitae blandit justo diam ut sapien. Phasellus auctor ultricies massa, pulvinar rhoncus purus dignissim at. Nulla tempor tortor et leo vestibulum consectetur. Etiam mollis convallis auctor. Donec eleifend libero et maximus convallis. Nam nec leo justo. Donec at nisl pulvinar, sagittis metus eget, consectetur nisl.
+---
 
-Fusce varius egestas placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam ac dictum eros, eu faucibus metus. Donec at tortor tortor. Donec gravida purus sed metus blandit, quis fringilla dui ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed lorem urna, consequat vel suscipit at, lobortis eget quam. Proin libero erat, aliquet condimentum fringilla a, suscipit vitae lorem. Proin tincidunt purus non lacus commodo iaculis. Quisque sed arcu nec nibh efficitur dapibus in id nunc.
+### İçerik 1
 
-Ut sed fermentum enim. Cras congue mi vel eros porta facilisis vitae vel augue. Praesent nulla diam, laoreet id nisi eget, consequat ultrices velit. Nulla non purus consequat, condimentum lorem at, mattis odio. Nam maximus ligula eros, nec tempus eros egestas at. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit nibh sit amet metus eleifend ultrices. Suspendisse auctor lectus ut mauris sollicitudin consectetur. Aliquam id mauris urna. Sed eget nulla ac ex hendrerit iaculis id vel nisl. Aenean urna metus, tempor eu accumsan non, tincidunt ornare nunc. Aliquam gravida gravida dignissim. Integer ultricies finibus quam.
+**Başlık:** Devrim Arabaları
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus sollicitudin eros vitae magna condimentum facilisis. Nullam posuere sollicitudin molestie. Etiam id lacus venenatis, gravida nunc et, consequat arcu. Vestibulum fringilla viverra dictum. Suspendisse et mattis nibh. Nam ac efficitur turpis, in maximus libero. Praesent porttitor eros in tellus scelerisque, a vestibulum justo laoreet.
+**İçerik Türü:** Film
 
-Nam vitae massa semper, tempus tellus eget, euismod ligula. Sed vulputate hendrerit tortor. Donec nec erat sit amet lectus consequat ullamcorper vel non ex. Duis viverra fringilla sapien gravida euismod. Pellentesque elementum metus justo. Maecenas id iaculis ante. Sed id luctus mauris. Fusce vehicula metus dolor, eget laoreet dolor aliquet vitae. Nulla commodo non dui et condimentum. Integer auctor elit nec quam ullamcorper dapibus.
+???+ quote "Beyaz Perde Özeti"
 
-Etiam sed vulputate massa. Nunc rhoncus augue sed massa bibendum commodo. Proin ut ligula mauris. In iaculis vulputate libero euismod scelerisque. Cras laoreet mi ac mi varius, vel dictum augue interdum. Praesent accumsan, purus nec condimentum iaculis, eros lectus dapibus ex, in dapibus ipsum leo a urna. Vestibulum ut purus nec libero sodales molestie at vel diam. Aenean sed urna enim. Suspendisse in mauris vel ligula aliquam tincidunt. Ut rutrum sagittis arcu ut scelerisque. Vestibulum sit amet condimentum justo. Nunc in vulputate mauris. Aliquam at diam accumsan, molestie nibh vel, dictum est. Quisque tincidunt lectus non leo venenatis, ut suscipit nisi tristique. Vivamus eleifend lobortis neque luctus tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+    1960 yılında 27 Mayıs darbesi sonucu göreve gelen general Cemal Gürsel'in gerçek hikayesinden yola çıkarak oluşturulan Devrim Arabaları adlı filmi babası darbecilikle suçlanan parlak yönetmen Tolga Örnek'in çekmesi ilginç bir tesadüf olmuştur. İhtilalden bir sene sonra Cumhurbaşkanı Cemal Gürsel, uzun zamandır hasretini çektiği yerli üretim bir otomobil yapılmasını emreder ve görevin TCDD işletmesine verildiğini açıklar. Hemen işe koyulan 23 mühendisin önünde bu otomobili yapmak için Cumhuriyet Bayramı’na kadar yalnızca 130 gün vardır. Devrim adı verilecek olan bu arabayı üretmek için 23 mühendis el ele verecek, kariyerlerini ve aile hayatlarını riske atarak zamanla, yoklukla, politikayla, karşılarına çıkan sayısız engelle baş etmek zorunda kalacaktır. Benzini bitti diye yolda kalan araba etiketiyle unutulan Devrim'in hazin hikayesinin bilinen ve bilinmeyenlerinin anlatıldığı Devrim Arabaları filminin senaryosunu, Murat Dişli ve Tolga Örnek 2 yıllık bir araştırma sonucunda oluşturmuşlar. Yardımcı yönetmenlik görevinde ise daha sonra Kuzey ve Güney adlı başarılı dizi filmin yönetmeni olacak Mehmet Ada Öztekin bulunmakta.
 
-Sed non vestibulum tortor. Cras vel urna ullamcorper, elementum felis vitae, sagittis dui. Duis ut purus pellentesque, venenatis orci id, dignissim tellus. Aliquam id dui augue. Aliquam vehicula iaculis leo, scelerisque laoreet purus suscipit vel. Morbi eget consectetur ipsum, vitae ornare massa. Nam maximus aliquet suscipit. Cras eget enim a quam pellentesque egestas. Etiam id consequat ante. Vestibulum sed fringilla tellus. Fusce tempor, libero et ultricies facilisis, ante mi euismod mi, nec aliquet turpis metus at sem. Maecenas nunc eros, mollis viverra libero sit amet, semper commodo purus. Quisque rhoncus consequat erat. Nulla placerat ex libero. Etiam condimentum arcu at ligula malesuada porta.
+    [Detaylı bilgi için tıklayınız](https://www.beyazperde.com/filmler/film-145601/)
 
-Fusce orci nunc, volutpat nec vulputate commodo, iaculis eget ligula. In hac habitasse platea dictumst. Curabitur id pellentesque ligula. Maecenas gravida lobortis urna, pulvinar sagittis nisi iaculis sit amet. Nulla tincidunt nec leo molestie placerat. Aenean volutpat libero et elementum molestie. Cras ex libero, posuere rhoncus consectetur in, varius quis lacus. Aenean nec molestie enim, sit amet accumsan neque. Quisque pellentesque aliquet fermentum. Cras in consectetur diam. Quisque ligula lorem, gravida vel diam a, tempor mollis mi.
+Bu film ile geçmişten günümüze sanayinin ve üretimin değerlendirilmesi hedeflenmiştir.
 
-Nam mollis metus ut tellus vestibulum tincidunt. Aliquam gravida nibh tortor, a pretium dolor laoreet sit amet. Nulla facilisi. Nullam justo sem, viverra quis maximus id, varius quis lectus. Curabitur quis lacinia metus. In vel est sed nisl sollicitudin vulputate ac eget enim. Quisque accumsan risus imperdiet tellus venenatis malesuada eu a dolor.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1pExvMoeJjk?si=jVMdDdob1uQ9siwJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Nullam euismod neque quis orci tempor ornare. Maecenas pharetra a odio vitae condimentum. Vivamus placerat ante eget pellentesque facilisis. Duis quis cursus nisl. Donec pellentesque tincidunt lorem, vitae fermentum nisi laoreet tincidunt. Cras ut placerat leo. Curabitur rhoncus tincidunt leo quis facilisis. Integer mollis diam odio, varius pretium ipsum posuere vitae. Sed ornare libero tortor, vel gravida diam tempor vel. In nec nisi sit amet metus vestibulum condimentum. Vivamus iaculis nunc ligula, non pretium ex tincidunt eget. Donec sagittis malesuada est, vitae sodales purus egestas ac. Proin tincidunt aliquet iaculis.
+---
+
+### İçerik 2
+
+**Başlık:** Hürkuş: Göklerdeki Kahraman
+
+**İçerik Türü:** Film
+
+???+ quote "Beyaz Perde Özeti"
+
+    I. Dünya Savaşı ve Kurtuluş Savaşı’nda görev yapan, düşman uçağı düşüren ilk Türk pilot olan Vecihi Hürkuş’un hayatı beyaz perdeye aktarılıyor. Henüz 16 yaşındayken uçma sevdasının peşinden giden Vecihi Hürkuş, hayatını uçak üretmeye ve yeni pilotlar eğitmeye adadı.  Türk havacılık tarihinin en önemli isimlerinden pilot ve mühendis Vecihi Hürkuş'un hayatının anlatılacağı filmin yönetmenliğini Kudret Sabancı’nın üstleniyor. Senaryosunu Savaş Korkmaz’ın kaleme aldığı filmin oyuncu kadrosunda Hilmicem İntepe, Gizem Karaca, Miray Daner, Bora Akkaş, Zeyno Eracar, Murat Arkın, Bahadır Yenişehirlioğlu gibi isimler yer alıyor.
+
+    [Detaylı bilgi için tıklayınız](https://www.beyazperde.com/filmler/film-261733/)
+
+Bu film ile ülkemizde mühendislik adına çığır açıcı işler yapmış olan bir şahsiyeti tanımanız ve ilham almanız hedeflenmiştir.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EFM18YFsWI?si=68qDGt5gA0x75DBD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Kuluçka Haftası
+
+**Konuk:** Gürcan Karakaş
+
+**Gürcan Karakaş Kimdir?**
+
+<div class="grid cards" markdown>
+
+- Gürcan Karakaş 1965 Antalya Akseki doğumlu. 1988 yılında Ortadoğu Üniversitesi Makine Mühendisliği Bölümü’nden mezun olan Karakaş, aynı yıl Aselsan’da çalışmaya başladı. 1990 yılında Bosch Sanayi ve Ticaret A.Ş’de görev alan Karakaş, 1991-1992 yılları arasında Almanya Feuerbach’ta dizel püskürtme sistemleri ürün geliştirme mühendisi olarak çalıştı. 1995 yılında Bursa’da teknik aplikasyon projelerinden sorumlu kısım müdürü oldu ve 1996-1997 yılları arasında Almanya Bühlertal’da enerji ve karoseri sistemleri üzerine Japon ve İskandinav müşterilerden sorumlu proje müdürü olarak görev aldı. Gürcan Karakaş, 2004 yılında Bosch Türkiye’ye Genel Müdür olarak atandı. 2007 yılında Bosch’un Almanya’daki merkezine geçen Karakaş, o tarihten bu yana grubun yenileme pazarlarından sorumlu Kıdemli Başkan Yardımcısı olarak görev yapıyordu. Karakaş son olarak TOGG’da CEO’luk görevini üstlendi.
+- ![Image title](img/gurcan-karakas.jpeg)
+
+</div>

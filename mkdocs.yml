@@ -53,6 +53,11 @@ theme:
 
 use_directory_urls: false
 
+markdown_extensions:
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+
 plugins:
   - mkdocs-pdf
   - social:
