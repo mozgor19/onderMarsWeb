@@ -1,6 +1,6 @@
 site_name: MARS Projesi | Eğitim İçerikleri
-site_url: https://mozgor19.github.io/onderMarsWeb/
-base-url: /onderMarsWeb/
+site_url: http://mars.onder.org.tr
+base-url: /
 
 nav:
   - Anasayfa: index.md
