@@ -1,6 +1,6 @@
 site_name: MARS Projesi | Eğitim İçerikleri
 site_url: http://mars.onder.org.tr
-base-url: /
+base-url: /onderMarsWeb/
 
 nav:
   - Anasayfa: index.md
