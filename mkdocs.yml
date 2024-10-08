@@ -16,7 +16,8 @@ nav:
   - Tarih: hist.md
 
 theme:
-  logo: assets/mars-logo.png
+  logo: assets/logo-beyaz-01.png
+  favicon: assets/tarayici-logo-01.png
   features:
     - header.autohide
     - navigation.tabs
@@ -32,18 +33,20 @@ theme:
     - content.code.annotation
     - content.code.copy
   palette:
+    # Light Mode
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-      primary: blue grey
-      accent: light green
+        icon: material/weather-night
+        name: Light mode
+      primary: mars-light
+      accent: custom
+    # Dark Mode
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-      primary: black
-      accent: lime
+        icon: material/weather-sunny
+        name: Dark Mode
+      primary: blue grey
+      accent: deep orange
   language: tr
   name: material
   custom_dir: docs/custom

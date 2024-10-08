@@ -1,15 +1,52 @@
 :root {
-    --md-primary-fg-color:        #dd3900;
-    --md-primary-fg-color--light: #ffffff;
-    --md-primary-fg-color--dark:  #90030C;
     --md-text-font: "Cardium"; 
   }
 
-[data-md-color-scheme="mars"] {
-    --md-primary-fg-color:        #dd370055;
-    --md-primary-fg-color--light: #d5d5d5;
-    --md-primary-fg-color--dark:  #7d2102;
-  }
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #DD3900; /* Primary rengi */
+    --md-accent-fg-color: #020203;  /* Accent rengi */
+    --md-hue: 228; /* Mavi-mor tonları için */
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #101726; /* Primary rengi */
+  --md-accent-fg-color: #DD3900;  /* Accent rengi */
+  --md-hue: 228; /* Mavi-mor tonları için */
+}
+
+/*********************************** Sadece light mode için **********************************************/
+
+/* tabs */
+[data-md-color-scheme="default"] .md-tabs__link {
+  color: #000; /* Sekme metin rengi */
+}
+
+[data-md-color-scheme="default"] .md-tabs__item--active .md-tabs__link {
+  color: #fff; /* Aktif sekme metin rengi */
+}
+
+[data-md-color-scheme="default"] .md-tabs__link:hover {
+  color: #fff; /* Hover metin rengi */
+}
+
+/* nav */
+[data-md-color-scheme="default"] .md-header-nav__title .md-header-nav__link {
+  color: #101726; /* Metin rengi */
+}
+
+[data-md-color-scheme="default"] .md-nav__link {
+  color: #000; /* Aktif sekme metin rengi */
+}
+
+[data-md-color-scheme="default"] .md-nav__link:hover {
+  color: #DD3900; /* Hover metin rengi */
+}
+
+/**************************************************************************************************/
+
+.md-header__button.md-logo img{
+  height: 2rem;
+}
 
   @font-face {
     font-family: 'Cardium A Regular';
