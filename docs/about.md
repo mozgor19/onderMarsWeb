@@ -20,4 +20,4 @@ Bu dersler kapsamında öğrencilere ilgi duydukları konulara somut adımlar at
 
 ## Süpernova Haftası
 
-Spacewalk haftası, öğrencilerin keyifli vakit geçirecekleri, dinlenecekleri, hobilerine zaman ayırabilmeleri, yeni ve farklı deneyim kazanacakları bir süreçtir. Projenin aktivite bölümünde sanatsal, sportif, kültürel (doğa yürüyüşleri, el becerileri vb.) faaliyetlere yer verilmektedir.
+Süpernova haftası, öğrencilerin keyifli vakit geçirecekleri, dinlenecekleri, hobilerine zaman ayırabilmeleri, yeni ve farklı deneyim kazanacakları bir süreçtir. Projenin aktivite bölümünde sanatsal, sportif, kültürel (doğa yürüyüşleri, el becerileri vb.) faaliyetlere yer verilmektedir.
