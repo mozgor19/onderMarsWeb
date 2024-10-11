@@ -2,19 +2,37 @@
     --md-text-font: "Cardium"; 
   }
 
-[data-md-color-scheme="default"] {
-    --md-primary-fg-color: #DD3900; /* Primary rengi */
-    --md-accent-fg-color: #020203;  /* Accent rengi */
-    --md-hue: 228; /* Mavi-mor tonları için */
-}
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #101726; /* Primary rengi */
+  --md-primary-fg-color: #101426; /* Primary rengi */
   --md-accent-fg-color: #DD3900;  /* Accent rengi */
   --md-hue: 228; /* Mavi-mor tonları için */
+  --md-default-bg-color: #0b1019;
 }
 
+/* nav */
+[data-md-color-scheme="slate"] .md-nav__link {
+  color: #8c92bc; /* Metin rengi */
+}
+
+/* h1 */
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: #fff; /* Metin rengi */
+}
+
+/* h2 */
+[data-md-color-scheme="slate"] .md-typeset h2 {
+  color: #DD3900; /* Metin rengi */
+}
+
+
 /*********************************** Sadece light mode için **********************************************/
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #e45b2e; /* Primary rengi */
+  --md-accent-fg-color: #020203;  /* Accent rengi */
+  --md-hue: 228; /* Mavi-mor tonları için */
+  --md-default-bg-color: #fef4f1;
+}
 
 /* tabs */
 [data-md-color-scheme="default"] .md-tabs__link {
@@ -41,6 +59,17 @@
 [data-md-color-scheme="default"] .md-nav__link:hover {
   color: #DD3900; /* Hover metin rengi */
 }
+
+/* h1 */
+[data-md-color-scheme="default"] .md-typeset h1 {
+  color: #b45129; /* Metin rengi */
+}
+
+/* h2 */
+[data-md-color-scheme="default"] .md-typeset h2 {
+  color: #202657; /* Metin rengi */
+}
+
 
 /**************************************************************************************************/
 

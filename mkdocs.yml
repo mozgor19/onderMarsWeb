@@ -38,15 +38,15 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: mars-light
+      primary: custom
       accent: custom
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark Mode
-      primary: blue grey
-      accent: deep orange
+      primary: custom
+      accent: custom
   language: tr
   name: material
   custom_dir: docs/custom
