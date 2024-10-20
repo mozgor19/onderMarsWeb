@@ -5,15 +5,15 @@ base-url: /
 nav:
   - Anasayfa: index.md
   - Eğitim: about.md
-  - Medya ve İletişim: medya-iletisim.md
-  - Uluslararası Hukuk: int-hukuk.md
-  - Ekonomi ve Ticaret: econ-ticaret.md
-  - Edebiyat: edebiyat.md
-  - Sanat ve Zanaat: sanat-zanaat.md
+  #- Medya ve İletişim: medya-iletisim.md
+  #- Uluslararası Hukuk: int-hukuk.md
+  #- Ekonomi ve Ticaret: econ-ticaret.md
+  #- Edebiyat: edebiyat.md
+  #- Sanat ve Zanaat: sanat-zanaat.md
   - Sanayi ve Teknoloji: sanayi-teknoloji.md
-  - Sürdürülebilirlik: surdurulebilirlik.md
-  - Psikoloji ve Sosyoloji: psy-soc.md
-  - Tarih: hist.md
+  #- Sürdürülebilirlik: surdurulebilirlik.md
+  #- Psikoloji ve Sosyoloji: psy-soc.md
+  #- Tarih: hist.md
 
 theme:
   logo: assets/logo-beyaz-01.png
