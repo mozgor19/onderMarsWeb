@@ -5,12 +5,12 @@ base-url: /
 nav:
   - Anasayfa: index.md
   - Eğitim: about.md
-  #- Medya ve İletişim: medya-iletisim.md
-  #- Uluslararası Hukuk: int-hukuk.md
-  #- Ekonomi ve Ticaret: econ-ticaret.md
+  - Ekonomi ve Ticaret: econ-ticaret.md
+  - Uluslararası Hukuk: int-hukuk.md
+  - Medya ve İletişim: medya-iletisim.md
   #- Edebiyat: edebiyat.md
   #- Sanat ve Zanaat: sanat-zanaat.md
-  - Sanayi ve Teknoloji: sanayi-teknoloji.md
+  #- Sanayi ve Teknoloji: sanayi-teknoloji.md
   #- Sürdürülebilirlik: surdurulebilirlik.md
   #- Psikoloji ve Sosyoloji: psy-soc.md
   #- Tarih: hist.md

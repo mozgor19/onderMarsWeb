@@ -63,6 +63,6 @@ description: Hafta X
 
     Samsun içerikleri
 
-??? travel "Trabzon"
+??? travel "Sivas"
 
     Trabzon içerikleri
