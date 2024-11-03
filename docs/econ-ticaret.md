@@ -9,6 +9,11 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 ## Karadelik Haftası
 
+!!! info ""
+
+    Bu başlık ilgili ayda görünür olacaktır.
+
+<!--
 **Başlık:** Basitleştirilmiş Kapitalizm Anlatısı | Kapitalizm Nedir?
 
 **İçerik Türü:** Video
@@ -47,11 +52,17 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/IpuN7lA2b5g?si=dNTOXXYxJoToEhch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
+-->
 
 ---
 
 ## Kuluçka Haftası
 
+!!! info ""
+
+    Bu başlık ilgili ayda görünür olacaktır.
+
+<!--
 **Konuk:** Barbaros Ceylan
 
 **Barbaros Ceylan Kimdir?**
@@ -66,11 +77,17 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
   </figure>
 
 </div>
+-->
 
 ---
 
 ## Süpernova Haftası
 
+!!! info ""
+
+    Bu başlık ilgili ayda görünür olacaktır.
+
+<!--
 ??? travel "İstanbul"
 
     Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
@@ -90,3 +107,4 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 ??? travel "Sivas"
 
     Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+-->

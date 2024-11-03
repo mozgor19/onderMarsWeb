@@ -5,9 +5,9 @@ base-url: /
 nav:
   - Anasayfa: index.md
   - Eğitim: about.md
-  - Ekonomi ve Ticaret: econ-ticaret.md
   - Uluslararası Hukuk: int-hukuk.md
   - Medya ve İletişim: medya-iletisim.md
+  - Ekonomi ve Ticaret: econ-ticaret.md
   #- Edebiyat: edebiyat.md
   #- Sanat ve Zanaat: sanat-zanaat.md
   #- Sanayi ve Teknoloji: sanayi-teknoloji.md

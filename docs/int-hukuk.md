@@ -9,11 +9,6 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 ## Karadelik Haftası
 
-!!! info ""
-
-    Bu başlık ilgili ayda görünür olacaktır.
-
-<!--
 **Başlık:** 12 Kızgın Adam (12 Angry Men)
 
 **İçerik Türü:** Film
@@ -28,18 +23,24 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
     Bu film ile farazi bir dava üzerinden hukuk nasıl işlediğini, kendi zihnimizde yaptığımız yargılamalar ve adil bir yargılamanın farklarını anlayabilmek hedeflenmiştir.
 
-<iframe width="1078" height="606" src="https://www.youtube.com/embed/TEN-2uTi2c0?si=cBm8xV8WfzgH-bAh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
+<iframe width="1078" height="606" src="https://www.youtube.com/embed/D44CFR8VLVE?si=AXbZzV4Yv5eAkAiG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**Başlık:** Adalet Nedir?
+
+**İçerik Türü:** Video
+
+!!! info ""
+
+    Bu video ile adalet kavramının ironik bir söylem üzerinden değerlendirilmesi ve hukukun toplumdaki rolüne dair fikir yürütülmesi hedeflenmiştir.
+
+<iframe width="1078" height="606" src="https://www.youtube.com/embed/OqPYjcV8BRo?si=4bEt75h6YGs4hj-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## Kuluçka Haftası
 
-!!! info ""
-
-    Bu başlık ilgili ayda görünür olacaktır.
-
-<!--
 **Konuk:** Berdal Aral
 
 **Berdal Aral Kimdir?**
@@ -53,7 +54,6 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
   </figure>
 
 </div>
--->
 
 ---
 
@@ -61,7 +61,7 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 !!! info ""
 
-    Bu başlık ilgili ayda görünür olacaktır.
+    Bu başlık ilgili haftada görünür olacaktır.
 
 <!--
 ??? travel "İstanbul"
