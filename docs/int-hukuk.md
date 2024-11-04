@@ -23,7 +23,7 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
     Bu film ile farazi bir dava üzerinden hukuk nasıl işlediğini, kendi zihnimizde yaptığımız yargılamalar ve adil bir yargılamanın farklarını anlayabilmek hedeflenmiştir.
 
-<iframe width="1078" height="606" src="https://www.youtube.com/embed/D44CFR8VLVE?si=AXbZzV4Yv5eAkAiG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1Eie6Wxno8Q7s6mdQmgnTdwlSg5tpxIC7/preview" width="1078" height="606" allow="autoplay"></iframe>
 
 ---
 
@@ -35,7 +35,7 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
     Bu video ile adalet kavramının ironik bir söylem üzerinden değerlendirilmesi ve hukukun toplumdaki rolüne dair fikir yürütülmesi hedeflenmiştir.
 
-<iframe width="1078" height="606" src="https://www.youtube.com/embed/OqPYjcV8BRo?si=4bEt75h6YGs4hj-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1Wm7kYXtiaCUGbCC0KAz03JW02yF5GUrH/preview" width="1078" height="606" allow="autoplay"></iframe>
 
 ---
 
