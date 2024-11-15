@@ -1,6 +1,6 @@
 ---
 title: Uluslararası Hukuk
-description: Ay 1
+description: Başlık 1
 ---
 
 # **Uluslararası Hukuk**
@@ -41,27 +41,26 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 ## Kuluçka Haftası
 
-**Konuk:** Berdal Aral
+**Konuk:** Cavit Tatlı
 
-**Berdal Aral Kimdir?**
+**Cavit Tatlı Kimdir?**
 
 <div class="grid cards" markdown>
 
-- 1963 Tarsus doğumlu. Ankara Üniversitesi Siyasal Bilgiler Fakültesi Uluslararası İlişkiler Bölümü’nden mezun oldu (1985). “Turkey and International Society from a Critical Legal Perspective” (Eleştirel Hukuk Açısından Türkiye ve Uluslararası Toplum) başlıklı çalışmasıyla Glasgow Üniversitesi’nde doktorasını tamamladı (1994). Verdiği dersler ve diğer çalışmaları, özellikle uluslararası hukuk ve insan hakları alanında yoğunlaşmıştır. Uluslararası Hukukta Meşru Müdafaa Hakkı (1999) ve Üçüncü Kuşak İnsan Hakları Olarak Kolektif Haklar (2010) adlı kitaplarının yanı sıra, hem yukarıda sözü edilen konularda hem de Türkiye’nin dış politikası alanında Türkçe ve İngilizce olarak yayınlanmış makaleleri vardır. Halen İstanbul Medeniyet Üniversitesi Uluslararası İlişkiler Bölümü’nde öğretim üyesi olarak görev yapmaktadır.
+- 1995 yılında İstanbul Hukuk Fakültesinde Üniversite hayatına başlayıp 2000 yılında mezun oldu, 2001 yılından itibaren Tatlı Hukuk bürosunu kurup serbest avukatlık yapmaya başladı. 2010 yılında HUKUKÇULAR Derneği’n de görev almaya başlayıp 2011 yılında Hukukçular Derneği Genel Başkanı oldu ve halen devam etmektedir.Çeşitli Gazete ve Dergilerde makale yazmaktadır.Arabuluculuk hizmetinin merkezler üzerinden yapılacağına ilişkin görüş ve düşüncelerin ağır basması üzerine bir çok arabulucu meslektaşla birlikte 2019 yılında Boğaziçi Arabuluculuk ve Tahkim Merkezi A.Ş.yi kurarak Arabuluculuk Mesleğinin kurumsallaşmasına öncülük etmiştir.
+  Tüm bunların yanında akademik çalışmaya da önem veren Cavit TATLI, Adalet Bakanlığı Arabuluculuk Daire Başkanlığınca eğitim verecek üniversiteler olarak akredite edilmiş üniversitelerden olan Gedik Üniversitesi’nde İş Hukukunda Uzman Arabuluculuk eğitimi vermektedir.
 - <figure markdown="span">
-    ![Image title](img/berdal-aral.jpg)
-    <figcaption><a href="https://www.linkedin.com/in/m-g%C3%BCrcan-karakas-521959163/?originalSubdomain=tr" target="_blank">Berdal Aral</figcaption>
+    ![Image title](img/cavit-tatli.jpg)
+    <figcaption><a href="https://www.bogaziciarabuluculuk.com/attorney/cavit-tatli/" target="_blank">Cavit Tatlı</figcaption>
   </figure>
 
 </div>
-
----
 
 ## Süpernova Haftası
 
 !!! info ""
 
-    Bu başlık ilgili haftada görünür olacaktır.
+    Bu başlık için süpernova etkinliği bulunmamaktadır.
 
 <!--
 ??? travel "İstanbul"
