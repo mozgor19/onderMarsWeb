@@ -11,15 +11,15 @@ description: Başlık 2
 
 **İçerik Türü:** Makale
 
-??? quote "Erişim"
-
-    [Makalenin tamamına bu linkten erişilebilir](https://jacanalysis.com/index.php/pub/article/view/12/9)
-
 !!! info ""
 
     Bu makale, İsrail'in Gazze işgali sırasında Filistin yanlısı paylaşımlar üzerindeki dijital sansür ve gölge yasaklama uygulamalarını incelemektedir. Meta platformuna odaklanarak, bu sansürlerin kullanıcı etkileşimlerini ve ifade özgürlüğünü nasıl kısıtladığını gösteriyor. Bu analiz, öğrencilere dijital sansür ve medya manipülasyonunun sosyal medya üzerindeki etkilerini daha iyi kavrama ve bu süreçlerin gerçek dünyadaki algıları nasıl şekillendirdiğini anlama fırsatı sunacaktır
 
 <embed src="pdfs/İfade ve Düşünce Özgürlüğüne Yönelik Dijital Sansür.pdf" type="application/pdf" width="100%" height="600px">
+
+??? quote "Erişim"
+
+    [Makalenin tamamına bu linkten erişilebilir](https://jacanalysis.com/index.php/pub/article/view/12/9)
 
 ---
 
