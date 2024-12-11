@@ -5,6 +5,8 @@ description: Başlık 2
 
 # **Medya ve İletişim**
 
+_Bu başlık İstanbul Çalıştay'ına dahildir_
+
 ## Karadelik Haftası
 
 **Başlık:** İfade ve Düşünce Özgürlüğüne Yönelik Dijital Sansür: İsrail’in 7 Ekim Filistin İşgali Bağlamında Betimsel Bir Analiz
