@@ -1,28 +1,115 @@
 ---
 title: Sanat ve Zanaat
-description: Hafta X
+description: Başlık 4
 ---
 
 # **Sanat ve Zanaat**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit, neque vestibulum lobortis finibus, augue sapien ullamcorper leo, ac blandit metus ipsum in risus. Ut fermentum justo ut diam lobortis, eget venenatis quam convallis. Maecenas non dui libero. Aliquam erat volutpat. Nulla sagittis augue id sem aliquet, non pulvinar quam pretium. Donec viverra augue ut iaculis convallis. Vestibulum euismod, mi quis pellentesque efficitur, mauris risus aliquam neque, volutpat lobortis arcu metus consequat dolor. Ut placerat non lorem a lacinia. In sodales nisi eget nisl eleifend scelerisque. Maecenas suscipit sapien ut odio faucibus volutpat. Aliquam ac consectetur nunc. Cras mauris nisi, varius vitae augue at, egestas fermentum enim. Morbi leo turpis, dignissim id sapien quis, vestibulum volutpat neque. Etiam vel erat ut orci ultricies posuere. Donec mauris eros, bibendum nec dapibus et, malesuada id elit.
+## Karadelik Haftası
 
-In lorem quam, sollicitudin ac nunc vel, vestibulum consequat augue. Proin ullamcorper sollicitudin lacus quis pulvinar. Cras maximus risus quis mi ornare porta. Aliquam non turpis hendrerit, faucibus libero ut, vehicula tellus. Quisque eu dapibus neque. Pellentesque feugiat, tellus ac porttitor convallis, metus dui faucibus massa, vitae posuere risus neque vehicula orci. Maecenas ipsum purus, egestas vel sem in, molestie mattis lectus. Maecenas pulvinar, metus aliquam mollis gravida, mi nulla euismod sem, vitae blandit justo diam ut sapien. Phasellus auctor ultricies massa, pulvinar rhoncus purus dignissim at. Nulla tempor tortor et leo vestibulum consectetur. Etiam mollis convallis auctor. Donec eleifend libero et maximus convallis. Nam nec leo justo. Donec at nisl pulvinar, sagittis metus eget, consectetur nisl.
+**Başlık:** Comme un Chef
 
-Fusce varius egestas placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam ac dictum eros, eu faucibus metus. Donec at tortor tortor. Donec gravida purus sed metus blandit, quis fringilla dui ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed lorem urna, consequat vel suscipit at, lobortis eget quam. Proin libero erat, aliquet condimentum fringilla a, suscipit vitae lorem. Proin tincidunt purus non lacus commodo iaculis. Quisque sed arcu nec nibh efficitur dapibus in id nunc.
+**İçerik Türü:** Film
 
-Ut sed fermentum enim. Cras congue mi vel eros porta facilisis vitae vel augue. Praesent nulla diam, laoreet id nisi eget, consequat ultrices velit. Nulla non purus consequat, condimentum lorem at, mattis odio. Nam maximus ligula eros, nec tempus eros egestas at. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit nibh sit amet metus eleifend ultrices. Suspendisse auctor lectus ut mauris sollicitudin consectetur. Aliquam id mauris urna. Sed eget nulla ac ex hendrerit iaculis id vel nisl. Aenean urna metus, tempor eu accumsan non, tincidunt ornare nunc. Aliquam gravida gravida dignissim. Integer ultricies finibus quam.
+??? quote "Beyaz Perde Özeti"
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus sollicitudin eros vitae magna condimentum facilisis. Nullam posuere sollicitudin molestie. Etiam id lacus venenatis, gravida nunc et, consequat arcu. Vestibulum fringilla viverra dictum. Suspendisse et mattis nibh. Nam ac efficitur turpis, in maximus libero. Praesent porttitor eros in tellus scelerisque, a vestibulum justo laoreet.
+    Jacky Bonnot, 32 yaşında amatör bir aşçıdır. Gerçekten çok yeteneklidir ve hayali ünlü bir aşçı olup büyük bir restoranda çalışmaktadır. Ekonomik durumu küçük mutfak işlerini kabul edip bu yerlerde de çalışmasını gerektirmektedir; fakat Jacky bu işlerde de bir türlü tutunamaz. Ta ki yıldızlı büyük bir şef olan Alexandre La Garde'la yolları kesişinceye kadar! Kabiliyetli olmanın yanında bir o kadar da inatçı olan Jacky, Lagarde'ın bir türlü anlaşamadığı restoranın yönetim kurulu başkanı Stanislas Matter'ın koltuğunu sarsıp yerine geçirmek için biçilmiş kaftandır. La Garde öte yandan inceleme için kendisini görmeye gelecek yetkililere sunacak yeni bir şeyler bulmak zorundadır ve yardıma ihtiyacı vardır. Ayrıca restoranları da ekonomik çıkmazdan dolayı tehlikededir ve bu ikilinin karşılaşması farklı sonuçlar doğmasına neden olacaktır!
 
-Nam vitae massa semper, tempus tellus eget, euismod ligula. Sed vulputate hendrerit tortor. Donec nec erat sit amet lectus consequat ullamcorper vel non ex. Duis viverra fringilla sapien gravida euismod. Pellentesque elementum metus justo. Maecenas id iaculis ante. Sed id luctus mauris. Fusce vehicula metus dolor, eget laoreet dolor aliquet vitae. Nulla commodo non dui et condimentum. Integer auctor elit nec quam ullamcorper dapibus.
+    [Detaylı bilgi için tıklayınız](https://www.beyazperde.com/filmler/film-193511/)
 
-Etiam sed vulputate massa. Nunc rhoncus augue sed massa bibendum commodo. Proin ut ligula mauris. In iaculis vulputate libero euismod scelerisque. Cras laoreet mi ac mi varius, vel dictum augue interdum. Praesent accumsan, purus nec condimentum iaculis, eros lectus dapibus ex, in dapibus ipsum leo a urna. Vestibulum ut purus nec libero sodales molestie at vel diam. Aenean sed urna enim. Suspendisse in mauris vel ligula aliquam tincidunt. Ut rutrum sagittis arcu ut scelerisque. Vestibulum sit amet condimentum justo. Nunc in vulputate mauris. Aliquam at diam accumsan, molestie nibh vel, dictum est. Quisque tincidunt lectus non leo venenatis, ut suscipit nisi tristique. Vivamus eleifend lobortis neque luctus tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+!!! info ""
 
-Sed non vestibulum tortor. Cras vel urna ullamcorper, elementum felis vitae, sagittis dui. Duis ut purus pellentesque, venenatis orci id, dignissim tellus. Aliquam id dui augue. Aliquam vehicula iaculis leo, scelerisque laoreet purus suscipit vel. Morbi eget consectetur ipsum, vitae ornare massa. Nam maximus aliquet suscipit. Cras eget enim a quam pellentesque egestas. Etiam id consequat ante. Vestibulum sed fringilla tellus. Fusce tempor, libero et ultricies facilisis, ante mi euismod mi, nec aliquet turpis metus at sem. Maecenas nunc eros, mollis viverra libero sit amet, semper commodo purus. Quisque rhoncus consequat erat. Nulla placerat ex libero. Etiam condimentum arcu at ligula malesuada porta.
+    Bu film ile bir zanaat olarak gastronomiye eğlenceli bir giriş yapılması hedeflenmiştir. Yalnızca izleyin ve keyif almaya çalışın.
 
-Fusce orci nunc, volutpat nec vulputate commodo, iaculis eget ligula. In hac habitasse platea dictumst. Curabitur id pellentesque ligula. Maecenas gravida lobortis urna, pulvinar sagittis nisi iaculis sit amet. Nulla tincidunt nec leo molestie placerat. Aenean volutpat libero et elementum molestie. Cras ex libero, posuere rhoncus consectetur in, varius quis lacus. Aenean nec molestie enim, sit amet accumsan neque. Quisque pellentesque aliquet fermentum. Cras in consectetur diam. Quisque ligula lorem, gravida vel diam a, tempor mollis mi.
+<iframe width="1078" height="606" src="//ok.ru/videoembed/44284185198?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
-Nam mollis metus ut tellus vestibulum tincidunt. Aliquam gravida nibh tortor, a pretium dolor laoreet sit amet. Nulla facilisi. Nullam justo sem, viverra quis maximus id, varius quis lectus. Curabitur quis lacinia metus. In vel est sed nisl sollicitudin vulputate ac eget enim. Quisque accumsan risus imperdiet tellus venenatis malesuada eu a dolor.
+---
 
-Nullam euismod neque quis orci tempor ornare. Maecenas pharetra a odio vitae condimentum. Vivamus placerat ante eget pellentesque facilisis. Duis quis cursus nisl. Donec pellentesque tincidunt lorem, vitae fermentum nisi laoreet tincidunt. Cras ut placerat leo. Curabitur rhoncus tincidunt leo quis facilisis. Integer mollis diam odio, varius pretium ipsum posuere vitae. Sed ornare libero tortor, vel gravida diam tempor vel. In nec nisi sit amet metus vestibulum condimentum. Vivamus iaculis nunc ligula, non pretium ex tincidunt eget. Donec sagittis malesuada est, vitae sodales purus egestas ac. Proin tincidunt aliquet iaculis.
+**Başlık:** Sanat Kültürel Değişimi Nasıl Şekillendirir? 
+
+**İçerik Türü:** Video
+
+!!! info ""
+
+    Bu video ile zanaat olgusundan sonra sanatın kültürel değişimi nasıl şekillendirdiği sosyolojik olarak ele alınmıştır. Türkçe dil seçeneği için [bu linkten](https://www.ted.com/talks/thelma_golden_how_art_gives_shape_to_cultural_change) de faydalanabilirsiniz.
+
+<iframe width="1078" height="606" src="https://www.youtube.com/embed/1FCihq5n-hE?si=FF5G_FTweYCy1k6a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**Başlık:** Yeryüzü ve Dünya Açısından Sanat 
+
+**İçerik Türü:** Video
+
+!!! info ""
+
+    Bu video ile dijital çağda sanatın dünya için ne ifade ettiği konusuna vurgu yapılmak istenmiştir. 
+
+<iframe width="1078" height="606" src="https://www.youtube.com/embed/a1TaFY1SoD8?si=AH3dKCXxhTQA7WSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**İleri Okuma**
+
+!!! info ""
+
+    Konular ilginizi çektiyse, tamamen isteğe bağlı olarak bu kaynakları da ziyaret edebilirsiniz.
+
+- Sanat tarihi ile alakalı detaylı bir eğitim seti için [bu linke](https://www.khanacademy.org.tr/kategori.asp?cat=44) tıklayınız.
+- Yiyeceğin Serüveni isimli [bu belgesel](https://www.trtbelgesel.com.tr/lezzet/yiyecegin-seruveni) gastronomiden yola çıkarak sofrasına gelen yiyeceğin kökenlerini merak edenler için ayrılmıştır.
+
+---
+
+## Kuluçka Haftası
+
+!!! info ""
+
+    Bu başlık ilgili haftada aktif olacaktır.
+
+<!-- 
+**Konuk:** Barbaros Ceylan
+
+**Barbaros Ceylan Kimdir?**
+
+<div class="grid cards" markdown>
+
+- Barbaros Ceylan, 1984 yılı İTÜ İşletme Mühendisliği bölümünden mezun olmuştur. Doktorasını İstanbul Üniversitesi İktisat bölümünde tamamlamıştır. Selçuklu ve Osmanlı medeniyetlerindeki “Ahilik ve Esnaf/Meslek Teşkilatları”nın “ahlaki” ve “insani” değerlerini üniversitede öğrenim görmekte olan gençlere tanıtmak, farkındalıklarını arttırmak ve meslek hayatına sadece maddi değil, aynı zamanda manevi ve moral “değerler” ile de bakmalarını sağlayacak bir idraki kazandırmak gayesiyle, 2012 yılında Hamilik Okulu Vakfını kurmuştur. Halen Hamilik Okulu Vakfında dersler vermekte ve insani değerlerin topluma yayılması konusunda gayret göstermektedir.
+
+- <figure markdown="span">
+    ![Image title](img/barbaros-ceylan.webp)
+    <figcaption><a href="https://www.linkedin.com/in/barbaros-ceylan-6b587096/?originalSubdomain=tr" target="_blank">Barbaros Ceylan</figcaption>
+  </figure>
+
+</div>
+-->
+
+---
+
+## Süpernova Haftası
+
+!!! info ""
+
+    Bu başlık ilgili haftada aktif olacaktır.
+
+<!--
+??? travel "İstanbul"
+
+    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+
+??? travel "Konya"
+
+    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+
+??? travel "Antalya"
+
+    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+
+??? travel "Samsun"
+
+    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+
+??? travel "Sivas"
+
+    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+
+-->
