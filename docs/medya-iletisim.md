@@ -51,35 +51,39 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 ## Kuluçka Haftası
 
-**Konuk:** Doğukan Gezer
+**Konuk:** Taceddin Kutay  
 
-**Doğukan Gezer Kimdir?**
+**Taceddin Kutay Kimdir?**
 
 <div class="grid cards" markdown>
 
-- Doğukan Gezer, 1991 İstanbul Beyoğlu’nda doğdu. Lise eğitimini Profilo Anadolu Teknik Lisesi’nde Elektronik Haberleşme bölümünde tamamlamasının ardından Mersin Üniversitesi İletişim Fakültesi Gazetecilik bölümünden mezun oldu. Mezuniyetin ardından Anadolu Üniversitesi’nde Halkla İlişkiler ve Tanıtım Ön Lisansı ile Nişantaşı Üniversitesi’nde Siyaset Bilimi ve Uluslararası İlişkiler Yüksek Lisansı yaptı. İletişim alanındaki akademik eğitimleri sırasında NTV, ATV/Sabah ve Mersin yerel yayınlarında stajyerlik görevi; sonrasında ise sırasıyla 2013 Akdeniz Oyunları’nda Yayın Sorumluluğu, Gençlik ve Spor Bakanlığı’nda Muhabirlik ve Yeni Şafak Dijital Servisi’nde Şef Editörlüğü üstlendi. 2018’den bu yana GZT Yayın Yönetmenliği görevini icra ediyor. 10 yılı aşkın süredir dijital medya alanında içerik ve strateji geliştirilmesi ve uygulanması konularında çalışmalar gerçekleştiriyor.
+- Arş. Gör. Muhammet Tacettin Kutay, lisans ve yüksek lisans eğitimini Viyana Üniversitesi'nde, tamamlamıştır. Halen Türk-Alman Üniversitesi'nde, araştırma görevlisi olarak çalışmaktadır. İngilizce, Almanca, ve Arapça bilen Kutay, Avrupa Sekülerleşmesi ve Din, Katolik Teolojisi konularında çalışmalar yürütmektedir. Çalışma alanlarıyla ilgili makaleleri bulunmaktadır.
 
 - <figure markdown="span">
-    ![Image title](img/dogukan-gezer.jpg)
-    <figcaption><a href="https://www.linkedin.com/in/dogukan-gezer-52350459/?originalSubdomain=tr" target="_blank">Doğukan Gezer</figcaption>
+    ![Image title](img/taceddin-kutay.jpg)
+    <figcaption><a href="https://people.tau.edu.tr/people.show/kutay" target="_blank">Taceddin Kutay</figcaption>
   </figure>
 
 </div>
 
 ## Süpernova Haftası
 
-!!! info ""
-
-    Bu başlık ilgili haftada görünür olacaktır.
-
-<!--
 ??? travel "İstanbul"
+
+    GZT ofisine gezi düzenlenecektir.
 
 ??? travel "Konya"
 
+    Yerel medya ofislerine gezi düzenlenecektir.
+
 ??? travel "Antalya"
+
+    Yerel medya ofislerine gezi düzenlenecektir.
 
 ??? travel "Samsun"
 
+    Yerel medya ofislerine gezi düzenlenecektir.
+
 ??? travel "Sivas"
--->
+
+    Yerel medya ofislerine gezi düzenlenecektir.
