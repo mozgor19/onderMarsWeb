@@ -1,28 +1,39 @@
 ---
 title: Edebiyat
-description: Hafta X
+description: Başlık 5
 ---
 
-# **Edebiyat**
+## Süpernova Haftası
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit, neque vestibulum lobortis finibus, augue sapien ullamcorper leo, ac blandit metus ipsum in risus. Ut fermentum justo ut diam lobortis, eget venenatis quam convallis. Maecenas non dui libero. Aliquam erat volutpat. Nulla sagittis augue id sem aliquet, non pulvinar quam pretium. Donec viverra augue ut iaculis convallis. Vestibulum euismod, mi quis pellentesque efficitur, mauris risus aliquam neque, volutpat lobortis arcu metus consequat dolor. Ut placerat non lorem a lacinia. In sodales nisi eget nisl eleifend scelerisque. Maecenas suscipit sapien ut odio faucibus volutpat. Aliquam ac consectetur nunc. Cras mauris nisi, varius vitae augue at, egestas fermentum enim. Morbi leo turpis, dignissim id sapien quis, vestibulum volutpat neque. Etiam vel erat ut orci ultricies posuere. Donec mauris eros, bibendum nec dapibus et, malesuada id elit.
+!!! info ""
 
-In lorem quam, sollicitudin ac nunc vel, vestibulum consequat augue. Proin ullamcorper sollicitudin lacus quis pulvinar. Cras maximus risus quis mi ornare porta. Aliquam non turpis hendrerit, faucibus libero ut, vehicula tellus. Quisque eu dapibus neque. Pellentesque feugiat, tellus ac porttitor convallis, metus dui faucibus massa, vitae posuere risus neque vehicula orci. Maecenas ipsum purus, egestas vel sem in, molestie mattis lectus. Maecenas pulvinar, metus aliquam mollis gravida, mi nulla euismod sem, vitae blandit justo diam ut sapien. Phasellus auctor ultricies massa, pulvinar rhoncus purus dignissim at. Nulla tempor tortor et leo vestibulum consectetur. Etiam mollis convallis auctor. Donec eleifend libero et maximus convallis. Nam nec leo justo. Donec at nisl pulvinar, sagittis metus eget, consectetur nisl.
+    Bu başlık kapsamında Süpernova haftasında fanzin çıkarma etkinliği düzenlenecektir.
 
-Fusce varius egestas placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam ac dictum eros, eu faucibus metus. Donec at tortor tortor. Donec gravida purus sed metus blandit, quis fringilla dui ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed lorem urna, consequat vel suscipit at, lobortis eget quam. Proin libero erat, aliquet condimentum fringilla a, suscipit vitae lorem. Proin tincidunt purus non lacus commodo iaculis. Quisque sed arcu nec nibh efficitur dapibus in id nunc.
 
-Ut sed fermentum enim. Cras congue mi vel eros porta facilisis vitae vel augue. Praesent nulla diam, laoreet id nisi eget, consequat ultrices velit. Nulla non purus consequat, condimentum lorem at, mattis odio. Nam maximus ligula eros, nec tempus eros egestas at. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit nibh sit amet metus eleifend ultrices. Suspendisse auctor lectus ut mauris sollicitudin consectetur. Aliquam id mauris urna. Sed eget nulla ac ex hendrerit iaculis id vel nisl. Aenean urna metus, tempor eu accumsan non, tincidunt ornare nunc. Aliquam gravida gravida dignissim. Integer ultricies finibus quam.
+**Fanzin Nedir?**
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus sollicitudin eros vitae magna condimentum facilisis. Nullam posuere sollicitudin molestie. Etiam id lacus venenatis, gravida nunc et, consequat arcu. Vestibulum fringilla viverra dictum. Suspendisse et mattis nibh. Nam ac efficitur turpis, in maximus libero. Praesent porttitor eros in tellus scelerisque, a vestibulum justo laoreet.
+Fanzin, amatör yazarlar, sanatçılar veya kolektifler tarafından üretilen, genellikle düşük maliyetle basılan ve bağımsız olarak dağıtılan yayınlardır.
 
-Nam vitae massa semper, tempus tellus eget, euismod ligula. Sed vulputate hendrerit tortor. Donec nec erat sit amet lectus consequat ullamcorper vel non ex. Duis viverra fringilla sapien gravida euismod. Pellentesque elementum metus justo. Maecenas id iaculis ante. Sed id luctus mauris. Fusce vehicula metus dolor, eget laoreet dolor aliquet vitae. Nulla commodo non dui et condimentum. Integer auctor elit nec quam ullamcorper dapibus.
+**Fanzin Özellikleri ve Teknik Detaylar**
 
-Etiam sed vulputate massa. Nunc rhoncus augue sed massa bibendum commodo. Proin ut ligula mauris. In iaculis vulputate libero euismod scelerisque. Cras laoreet mi ac mi varius, vel dictum augue interdum. Praesent accumsan, purus nec condimentum iaculis, eros lectus dapibus ex, in dapibus ipsum leo a urna. Vestibulum ut purus nec libero sodales molestie at vel diam. Aenean sed urna enim. Suspendisse in mauris vel ligula aliquam tincidunt. Ut rutrum sagittis arcu ut scelerisque. Vestibulum sit amet condimentum justo. Nunc in vulputate mauris. Aliquam at diam accumsan, molestie nibh vel, dictum est. Quisque tincidunt lectus non leo venenatis, ut suscipit nisi tristique. Vivamus eleifend lobortis neque luctus tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+1. Hazırlanan fanzinler 6 sayfayı (3 adet A4 kağıdı) geçmemelidir.
+2. Öğrenciler fanzine katkı sağlayacakları içerikleri seçmekte özgürdürler. Şiir, düz yazı, hikaye, masal, öykü, bilmece, çizim vb. alanların herhangi birinde katkı sağlayabilirler.
+3. Öğrencilerin her birinin fanzin üretim sürecine katkı sağlaması beklenmektedir.
+4. Fanzin, aşağıda açıklamaları verilen kısımları içermelidir:
+    - **Kapak**: Fanzin aşağıdaki unsurları içeren bir kapak sayfasına sahip olmalıdır. Eğer kapak sayfası oluşturulamayacak bir format seçildiyse (tek sayfalık bir fanzin yahut kapak oluşturulamayacak başka bir format vb.) yine de fanzin aşağıdaki tüm detayları içermek zorundadır.
+        1. **İsim**: Fanzine bir isim verilmelidir. Bu isim öğrencilerin ortak kararı olmalıdır.
+        2. **Sayı ve Tarih**: Öğrenciler fanzinin birinci sayısı olduğunu belirten bir ibareyle beraber fanzinin hazır olduğu tarihi kapak üzerinde bulundurmalıdır.
+        3. **Yazarlar**: Fanzinin kapak sayfasında ya da kapağın iç sayfasında fanzin içerisindeki tüm yazar-çizerlerin isimleri yer almalıdır.
+        4. **Tasarımcı**: Fanzinin genel tasarımından sorumlu kişi tasarımcı olarak belirtilmelidir.
+    - **Konu**: Fanzin bir konu yahut tema etrafında çıkarılmalıdır. Rastgele içeriklerin bir araya getirilerek karmaşa yaratılmamalıdır.
+5. Fanzin tasarımı el ile yapılabileceği gibi bilgisayar ortamı da kullanılabilir. Eğer varsa çizim içerikleri taratılarak dijital ortam üzerinde tasarıma eklenmelidir.
+6. İçeriklerin Türkçe olması birinci önceliktir. Yazım ve imla kurallarına azami özen gösterilmelidir.
 
-Sed non vestibulum tortor. Cras vel urna ullamcorper, elementum felis vitae, sagittis dui. Duis ut purus pellentesque, venenatis orci id, dignissim tellus. Aliquam id dui augue. Aliquam vehicula iaculis leo, scelerisque laoreet purus suscipit vel. Morbi eget consectetur ipsum, vitae ornare massa. Nam maximus aliquet suscipit. Cras eget enim a quam pellentesque egestas. Etiam id consequat ante. Vestibulum sed fringilla tellus. Fusce tempor, libero et ultricies facilisis, ante mi euismod mi, nec aliquet turpis metus at sem. Maecenas nunc eros, mollis viverra libero sit amet, semper commodo purus. Quisque rhoncus consequat erat. Nulla placerat ex libero. Etiam condimentum arcu at ligula malesuada porta.
+**Toplantı Kaydı**
 
-Fusce orci nunc, volutpat nec vulputate commodo, iaculis eget ligula. In hac habitasse platea dictumst. Curabitur id pellentesque ligula. Maecenas gravida lobortis urna, pulvinar sagittis nisi iaculis sit amet. Nulla tincidunt nec leo molestie placerat. Aenean volutpat libero et elementum molestie. Cras ex libero, posuere rhoncus consectetur in, varius quis lacus. Aenean nec molestie enim, sit amet accumsan neque. Quisque pellentesque aliquet fermentum. Cras in consectetur diam. Quisque ligula lorem, gravida vel diam a, tempor mollis mi.
+!!! info ""
 
-Nam mollis metus ut tellus vestibulum tincidunt. Aliquam gravida nibh tortor, a pretium dolor laoreet sit amet. Nulla facilisi. Nullam justo sem, viverra quis maximus id, varius quis lectus. Curabitur quis lacinia metus. In vel est sed nisl sollicitudin vulputate ac eget enim. Quisque accumsan risus imperdiet tellus venenatis malesuada eu a dolor.
+    23 Şubat Pazar 2025 tarihli Zoom toplantısının kaydını buradan izleyebilirsiniz. Bu toplantı fanzinin ne olduğunu anlamak ve Süpernova haftasının içeriğine dair soru işaretlerini gidermek amacıyla düzenlenmiştir.
 
-Nullam euismod neque quis orci tempor ornare. Maecenas pharetra a odio vitae condimentum. Vivamus placerat ante eget pellentesque facilisis. Duis quis cursus nisl. Donec pellentesque tincidunt lorem, vitae fermentum nisi laoreet tincidunt. Cras ut placerat leo. Curabitur rhoncus tincidunt leo quis facilisis. Integer mollis diam odio, varius pretium ipsum posuere vitae. Sed ornare libero tortor, vel gravida diam tempor vel. In nec nisi sit amet metus vestibulum condimentum. Vivamus iaculis nunc ligula, non pretium ex tincidunt eget. Donec sagittis malesuada est, vitae sodales purus egestas ac. Proin tincidunt aliquet iaculis.
+<iframe src="https://drive.google.com/file/d/1J93kBYDiAT0-SdqV6jKMmhMJLqfvdOGV/preview" width="1078" height="606" allow="autoplay"></iframe>
+
