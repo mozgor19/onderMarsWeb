@@ -37,3 +37,11 @@ Fanzin, amatör yazarlar, sanatçılar veya kolektifler tarafından üretilen, g
 
 <iframe src="https://drive.google.com/file/d/1J93kBYDiAT0-SdqV6jKMmhMJLqfvdOGV/preview" width="1078" height="606" allow="autoplay"></iframe>
 
+---
+
+**Öğrenciler tarafından oluşturulan fanzinlere aşağıdaki linkten ulaşabilirsiniz.**
+
+<a href="fanzinler/fanzinler.html" class="md-button md-button--primary" >
+  📖 Fanzinlere Erişmek İçin Tıklayınız
+</a>
+
