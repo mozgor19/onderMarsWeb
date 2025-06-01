@@ -21,15 +21,47 @@ description: Hafta X
 
 !!! info ""
 
-    Bu film ile ülkemizde geçmişten günümüze sanayinin ve üretimin değerlendirilmesi hedeflenmiştir.
+    Bu film Türkiye'nin yerli otomobil üretim sürecini anlatarak Milli teknoloji geliştirmenin zorluklarını aktarmaktadır. Bu süreçte yaşanan bürokratik engeller, iletişim eksiklikleri ve karar verici konumundaki aksamalar, ülkenin kalkınmasının önündeki yapısal engelleri sorgulama fırsatı sunar. 1960’lı yıllarda içinden geçtiği siyasal ve toplumsal koşullar, sanayileşme çabalarının neden ve nasıl sekteye uğradığını anlamaya yardımcı olur. Yalnızca bir arabanın hikâyesi değil; yerli üretimin, bağımsızlığın, özgüvenin ve vizyoner liderliğin ne kadar önemli olduğunu hatırlatmaktadır.
 
-<iframe width="1078" height="606" src="https://www.youtube.com/embed/1pExvMoeJjk?si=jVMdDdob1uQ9siwJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1078" height="606" src="https://www.youtube.com/embed/l9zp_xRkiLA?si=gjpLA2BZvALsZCg2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**Başlık:** Truman Doktrini ve Marshall Yardımı
+
+**İçerik Türü:** Video
+
+!!! info ""
+
+    Truman Doktrini ve Marshall Yardımı hakkında bilgi sahibi olunması
+
+<iframe width="1078" height="606" src="https://www.youtube.com/embed/qvBtcNseF1g?si=qIszZ501c5AGZfxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**Başlık:** Türk Savunma Sanayi Politikasının Tarihsel Dönüşümü: Milli Teknoloji Hamlesi 
+
+**İçerik Türü:** Makale (Sadeleştirilmiş)
+
+!!! info ""
+
+    Bu makale ile savunma sanayisinin tarihsel gelişim süreçlerini incelemek ve bu süreçte oluşan kurum ve kuruluşları tanımak hedeflenmiştir.. 
+
+<embed src="pdfs/sanayi-teknoloji.pdf" type="application/pdf" width="100%" height="600px">
+
+??? quote "Erişim"
+
+    [Makalenin tamamına bu linkten erişilebilir](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTKvQsybv4moTR1v6kKxSklUwedvJo879ZbubewFABBUn)
 
 ---
 
 ## Kuluçka Haftası
 
-**Konuk:** Gürcan Karakaş
+!!! info ""
+
+    Bu başlık ilgili haftada aktif olacaktır.
+
+<!-- **Konuk:** Gürcan Karakaş
 
 **Gürcan Karakaş Kimdir?**
 
@@ -41,13 +73,17 @@ description: Hafta X
     <figcaption><a href="https://www.linkedin.com/in/m-g%C3%BCrcan-karakas-521959163/?originalSubdomain=tr" target="_blank">M. Gürcan Karakaş</figcaption>
   </figure>
 
-</div>
+</div> -->
 
 ---
 
 ## Süpernova Haftası
 
-??? travel "İstanbul"
+!!! info ""
+
+    Bu başlık ilgili haftada aktif olacaktır.
+
+<!-- ??? travel "İstanbul"
 
     İstanbul içerikleri
 
@@ -66,3 +102,4 @@ description: Hafta X
 ??? travel "Sivas"
 
     Trabzon içerikleri
+-->
