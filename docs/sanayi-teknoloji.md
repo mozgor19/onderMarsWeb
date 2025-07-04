@@ -59,7 +59,7 @@ description: Hafta X
 
 !!! info ""
 
-    Bu başlık ilgili haftada aktif olacaktır.
+    Bu başlık ile ilgili şu an bilgi bulunmamaktadır. Daha sonra açıklanacaktır.
 
 <!-- **Konuk:** Gürcan Karakaş
 
@@ -81,8 +81,8 @@ description: Hafta X
 
 !!! info ""
 
-    Bu başlık ilgili haftada aktif olacaktır.
-
+    Bu başlık ile ilgili şu an bilgi bulunmamaktadır. Daha sonra açıklanacaktır.
+    
 <!-- ??? travel "İstanbul"
 
     İstanbul içerikleri

@@ -35,7 +35,7 @@ description: Başlık 5
 
 !!! info ""
 
-    Bu başlık ilgili haftada aktif olacaktır.
+    Bu başlık ile ilgili şu an bilgi bulunmamaktadır. Daha sonra açıklanacaktır.
 
 <!-- 
 **Konuk:** Barbaros Ceylan
@@ -58,29 +58,29 @@ description: Başlık 5
 
 ## Süpernova Haftası
 
+<!--
 !!! info ""
 
     Bu başlık ilgili haftada aktif olacaktır.
+-->
 
-<!--
+
 ??? travel "İstanbul"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlık altında kuluçka haftasının aksine bütüncül bir yaklaşım geliştirebilmek ve kavramların disiplinlerarası terimsel farklılıkları üzerine içgörü oluşturabilmek için il belediyelerinin geri dönüşüm tesislerine geziler düzenlenecek, yetkililerden yerinde bilgi aktarımı gerçekleştirilecektir.
 
 ??? travel "Konya"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlık altında kuluçka haftasının aksine bütüncül bir yaklaşım geliştirebilmek ve kavramların disiplinlerarası terimsel farklılıkları üzerine içgörü oluşturabilmek için il belediyelerinin geri dönüşüm tesislerine geziler düzenlenecek, yetkililerden yerinde bilgi aktarımı gerçekleştirilecektir.
 
 ??? travel "Antalya"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlık altında kuluçka haftasının aksine bütüncül bir yaklaşım geliştirebilmek ve kavramların disiplinlerarası terimsel farklılıkları üzerine içgörü oluşturabilmek için il belediyelerinin geri dönüşüm tesislerine geziler düzenlenecek, yetkililerden yerinde bilgi aktarımı gerçekleştirilecektir.
 
 ??? travel "Samsun"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlık altında kuluçka haftasının aksine bütüncül bir yaklaşım geliştirebilmek ve kavramların disiplinlerarası terimsel farklılıkları üzerine içgörü oluşturabilmek için il belediyelerinin geri dönüşüm tesislerine geziler düzenlenecek, yetkililerden yerinde bilgi aktarımı gerçekleştirilecektir.
 
 ??? travel "Sivas"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
-
--->
+    Bu başlık altında kuluçka haftasının aksine bütüncül bir yaklaşım geliştirebilmek ve kavramların disiplinlerarası terimsel farklılıkları üzerine içgörü oluşturabilmek için il belediyelerinin geri dönüşüm tesislerine geziler düzenlenecek, yetkililerden yerinde bilgi aktarımı gerçekleştirilecektir.

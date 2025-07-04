@@ -64,7 +64,7 @@ description: Başlık 4
 
 !!! info ""
 
-    Bu başlık ilgili haftada aktif olacaktır.
+    Bu başlık ile ilgili şu an bilgi bulunmamaktadır. Daha sonra açıklanacaktır.
 
 <!-- 
 **Konuk:** Barbaros Ceylan
@@ -87,29 +87,29 @@ description: Başlık 4
 
 ## Süpernova Haftası
 
+<!--
 !!! info ""
 
     Bu başlık ilgili haftada aktif olacaktır.
+-->
 
-<!--
 ??? travel "İstanbul"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlıkta öğrenciler kendi illerindeki yöresel sanat/zanaat ögelerinden bir tanesini liderleri eşliğinde deneyimleme imkanı bulacaklardır. 
 
 ??? travel "Konya"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlıkta öğrenciler kendi illerindeki yöresel sanat/zanaat ögelerinden bir tanesini liderleri eşliğinde deneyimleme imkanı bulacaklardır. 
 
 ??? travel "Antalya"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlıkta öğrenciler kendi illerindeki yöresel sanat/zanaat ögelerinden bir tanesini liderleri eşliğinde deneyimleme imkanı bulacaklardır. 
 
 ??? travel "Samsun"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlıkta öğrenciler kendi illerindeki yöresel sanat/zanaat ögelerinden bir tanesini liderleri eşliğinde deneyimleme imkanı bulacaklardır. 
 
 ??? travel "Sivas"
 
-    Ekonomi ve ticaret kriterlerinin daha iyi anlaşılabilmesini sağlamak adına örnek bir vaka çalışması düzenlenecektir. Bu vaka çalışmasında öğrenciler iki hafta boyunca öğrendikleri teorik bilgileri uygulama ve anlamlandırma şansı elde edecektir. Bu içerik tüm illerde ortak olarak düzenlenecektir.
+    Bu başlıkta öğrenciler kendi illerindeki yöresel sanat/zanaat ögelerinden bir tanesini liderleri eşliğinde deneyimleme imkanı bulacaklardır. 
 
--->

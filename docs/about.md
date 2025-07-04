@@ -2,11 +2,8 @@
 
 ## Karadelik Haftası
 
-Karadelik haftası kapsamında 5 farklı ilde yer alan öğrencilerin proje arkadaşlarıyla aynı vakitte o hafta özelinde belirlenen bir konu üzerinde yoğunlaşarak tahlil yapmaları hedeflenmektedir. Karadelik çalışmaları öğrencilerin bir konuyu derinlemesine araştırma ve farklı bakış açılarını göz önünde bulundurma fırsatı sunar. Farklı fikir ve düşüncelerin bir araya gelmesiyle öğrencilerin işbirliğinin ve iletişim becerilerinin gelişmesine olanak sağlar. Kuluçka haftası kapsamında yapılacak içerik tahlilleri öğrencileri sosyal girişim ve girişkenlik konularında düşünmeye, anlamaya ve ilham almaya teşvik edecektir.
+Karadelik haftası kapsamında 5 farklı ilde yer alan öğrencilerin proje arkadaşlarıyla aynı vakitte o hafta özelinde belirlenen bir konu üzerinde yoğunlaşarak tahlil yapmaları hedeflenmektedir. Karadelik çalışmaları öğrencilerin bir konuyu derinlemesine araştırma ve farklı bakış açılarını göz önünde bulundurma fırsatı sunar. Seçilen içeriğe uygun karadelik konusu belirlenir ve içerik üzerinden bu konu tartışılır. Öğrencilere kritik sorular yöneltilir. Farklı fikir ve düşüncelerin bir araya gelmesiyle öğrencilerin işbirliğinin ve iletişim becerilerinin gelişmesine olanak sağlar. Kuluçka haftası kapsamında yapılacak içerik tahlilleri öğrencileri sosyal girişim ve girişkenlik konularında düşünmeye, anlamaya ve ilham almaya teşvik edecektir.
 
-**İçerik Tahlilleri**
-
-Seçilen içeriğe uygun karadelik konusu belirlenir ve içerik üzerinden bu konu tartışılır. Öğrencilere kritik sorular yöneltilir.
 
 ---
 
