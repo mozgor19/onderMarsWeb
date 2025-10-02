@@ -38,43 +38,69 @@
             display: none; /* Varsayılan olarak gizli */
             justify-content: center;
             align-items: center;
+            padding: 15px; /* Küçük ekranlarda içerik kenarlara yapışmasın diye */
+            box-sizing: border-box; /* Padding dahil boyutu hesapla */
         }
         .popup-content {
             position: relative;
             background-color: #fff;
-            padding: 15px;
             border-radius: 8px;
-            max-width: 90%;
-            max-height: 90vh;
-            overflow-y: auto;
             box-shadow: 0 5px 15px rgba(0,0,0,.5);
+            padding: 0; /* Resmin kendi içeriği olduğu için iç boşluk olmasın */
+            text-align: center; /* Resmin ortalanması için */
+
+            /* Masaüstü için maksimum genişlik */
+            max-width: 600px; /* İstediğiniz boyuta göre ayarlayabilirsiniz */
+            width: 100%; /* İçeriği doldurması için */
+
+            /* Maksimum yükseklik ayarı */
+            max-height: 90vh; /* Ekran yüksekliğinin %90'ı */
+            overflow-y: auto; /* İçerik taşarsa kaydırma çubuğu çıkar */
         }
         .popup-content img {
             max-width: 100%;
             height: auto;
-            display: block;
+            display: block; /* Gereksiz boşlukları engeller */
+            border-radius: 8px; /* Pop-up'ın border-radius'una uygun */
         }
         .popup-close {
             position: absolute;
-            top: -10px;
-            right: -10px;
+            top: 5px; /* Üstten biraz boşluk */
+            right: 5px; /* Sağdan biraz boşluk */
             width: 30px;
             height: 30px;
-            background-color: #fff;
-            color: #000;
+            background-color: rgba(255, 255, 255, 0.8); /* Arka planı biraz şeffaf yap */
+            color: #333; /* Daha koyu renkli 'X' */
             border-radius: 50%;
             text-align: center;
             line-height: 30px;
-            font-size: 24px;
+            font-size: 20px; /* Boyutunu biraz küçült */
             font-weight: bold;
             cursor: pointer;
             border: 1px solid #ccc;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Hafif gölge ekle */
+            z-index: 1060; /* Resmin üzerinde kalması için */
         }
         .popup-close:hover {
             background-color: #f1f1f1;
+            color: #000;
+        }
+
+        /* Küçük ekranlar (mobil) için responsive ayarlar */
+        @media (max-width: 768px) {
+            .popup-content {
+                max-width: 95%; /* Mobil cihazlarda daha geniş olabilir */
+            }
+            .popup-close {
+                top: 5px;
+                right: 5px;
+                font-size: 18px;
+                width: 28px;
+                height: 28px;
+                line-height: 28px;
+            }
         }
     </style>
-    </head>
 
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
@@ -875,5 +901,36 @@ End of Testimonial Section -->
         </div>
     </div>
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const popup = document.getElementById('application-popup');
+            const closeBtn = document.getElementById('close-popup');
+
+            // Sayfa yüklendiğinde pop-up'ı göster
+            // İsteğe bağlı: setTimeout ile birkaç saniye sonra da gösterebilirsiniz.
+            // Örneğin 2 saniye sonra göstermek için:
+            // setTimeout(function() {
+            //    popup.style.display = 'flex';
+            // }, 2000);
+            popup.style.display = 'flex';
+
+
+            // Kapatma fonksiyonu
+            function closePopup() {
+                popup.style.display = 'none';
+            }
+
+            // 'X' butonuna tıklandığında pop-up'ı kapat
+            closeBtn.addEventListener('click', closePopup);
+
+            // Pop-up dışındaki alana (gri alana) tıklandığında kapatmak için:
+            popup.addEventListener('click', function(event) {
+                if (event.target === popup) {
+                    closePopup();
+                }
+            });
+        });
+    </script>
+    
 </body>
 </html>
