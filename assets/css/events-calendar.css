@@ -1,0 +1,811 @@
+/* MARS Projesi - Etkinlik Takvimi Stilleri */
+
+.events-section {
+    padding: 80px 0;
+    background-color: #f8f9fa;
+}
+
+.events-calendar {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+.calendar-header {
+    background: linear-gradient(135deg, #ff6b35, #f7931e);
+    color: white;
+    padding: 25px 30px;
+    text-align: center;
+    position: relative;
+}
+
+.calendar-header h3 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.calendar-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.calendar-nav.prev { left: 20px; }
+.calendar-nav.next { right: 20px; }
+
+.calendar-nav button {
+    background: rgba(255,255,255,0.2);
+    border: none;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+    transition: all 0.3s ease;
+}
+
+.calendar-nav button:hover {
+    background: rgba(255,255,255,0.3);
+    transform: scale(1.1);
+}
+
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: auto repeat(6, 1fr);
+    gap: 1px;
+    background-color: #e9ecef;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 300px;
+}
+
+.calendar-day-header {
+    background-color: #6c757d;
+    color: white;
+    padding: 8px 5px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 12px;
+    grid-row: 1;
+}
+
+.calendar-day {
+    background: white;
+    padding: 5px 3px;
+    min-height: auto;
+    height: 100%;
+    position: relative;
+    border: 1px solid #e9ecef;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.calendar-day:hover {
+    background-color: #f8f9fa;
+    transform: translateY(-2px);
+}
+
+.calendar-day.other-month {
+    color: #adb5bd;
+    background-color: #f8f9fa;
+}
+
+.calendar-day.today {
+    background: linear-gradient(135deg, #ff6b35, #f7931e);
+    color: white;
+}
+
+.calendar-day.has-event {
+    background: linear-gradient(135deg, #28a745, #20c997);
+    color: white;
+}
+
+.calendar-day.has-event.past {
+    background: linear-gradient(135deg, #6c757d, #495057);
+    color: white;
+}
+
+.day-number {
+    font-weight: 600;
+    font-size: 13px;
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.event-indicator {
+    position: static;
+    width: 5px;
+    height: 5px;
+    background: #ffc107;
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+    margin: auto;
+    flex-shrink: 0;
+}
+
+.calendar-day.has-event .event-indicator {
+    background: rgba(255,255,255,0.8);
+}
+
+/* Çoklu etkinlik göstergesi */
+.event-indicators {
+    display: flex;
+    gap: 2px;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.event-indicators .event-indicator {
+    width: 4px;
+    height: 4px;
+    margin: 0;
+}
+
+.calendar-day.multiple-events .event-indicators .event-indicator:nth-child(1) {
+    background: rgba(255,255,255,0.9);
+}
+
+.calendar-day.multiple-events .event-indicators .event-indicator:nth-child(2) {
+    background: rgba(255,255,255,0.7);
+    animation-delay: 0.3s;
+}
+
+.calendar-day.multiple-events .event-indicators .event-indicator:nth-child(3) {
+    background: rgba(255,255,255,0.5);
+    animation-delay: 0.6s;
+}
+
+/* Birden fazla etkinlik olan günler için özel stil */
+.calendar-day.multiple-events {
+    background: linear-gradient(135deg, #28a745, #20c997, #17a2b8);
+    color: white;
+    border: 2px solid #ffc107;
+}
+
+.calendar-day.multiple-events.past {
+    background: linear-gradient(135deg, #6c757d, #495057, #343a40);
+    color: white;
+    border: 2px solid #adb5bd;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+.event-details {
+    margin-top: 30px;
+    padding: 30px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.event-tabs {
+    display: flex;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #e9ecef;
+}
+
+.event-tab {
+    background: none;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #6c757d;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.event-tab.active {
+    color: #ff6b35;
+    border-bottom-color: #ff6b35;
+}
+
+.event-tab:hover {
+    color: #ff6b35;
+}
+
+.event-list {
+    display: none;
+}
+
+.event-list.active {
+    display: block;
+}
+
+.event-item {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border-left: 4px solid #ff6b35;
+    background: #f8f9fa;
+    transition: all 0.3s ease;
+}
+
+.event-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.event-item.past {
+    border-left-color: #6c757d;
+    background: #f1f3f4;
+}
+
+.event-date {
+    font-size: 14px;
+    color: #ff6b35;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.event-item.past .event-date {
+    color: #6c757d;
+}
+
+.event-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #343a40;
+}
+
+.event-description {
+    color: #6c757d;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.event-meta {
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+    color: #6c757d;
+}
+
+.event-meta i {
+    margin-right: 5px;
+    color: #ff6b35;
+}
+
+.event-item.past .event-meta i {
+    color: #6c757d;
+}
+
+.no-events {
+    text-align: center;
+    padding: 40px;
+    color: #6c757d;
+    font-style: italic;
+}
+
+/* Modal stilleri */
+.event-modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    animation: fadeIn 0.3s ease;
+}
+
+.event-modal.show {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 500px;
+    width: 90%;
+    margin: 20px;
+    position: relative;
+    animation: slideIn 0.3s ease;
+}
+
+.modal-close {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #6c757d;
+}
+
+.modal-close:hover {
+    color: #ff6b35;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { 
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    to { 
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Günlük çoklu etkinlik modal stilleri */
+.daily-events-list {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.daily-event-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border-left: 4px solid #ff6b35;
+    background: #f8f9fa;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.daily-event-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.daily-event-item.past {
+    border-left-color: #6c757d;
+    background: #f1f3f4;
+    opacity: 0.8;
+}
+
+.daily-event-item.karadelik {
+    border-left-color: #6f42c1;
+}
+
+.daily-event-item.kulucka {
+    border-left-color: #17a2b8;
+}
+
+.daily-event-item.special {
+    border-left-color: #ffc107;
+}
+
+.event-time-badge {
+    background: #ff6b35;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: 15px;
+    min-width: 70px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.daily-event-item.past .event-time-badge {
+    background: #6c757d;
+}
+
+.daily-event-item.karadelik .event-time-badge {
+    background: #6f42c1;
+}
+
+.daily-event-item.kulucka .event-time-badge {
+    background: #17a2b8;
+}
+
+.daily-event-item.special .event-time-badge {
+    background: #ffc107;
+    color: #212529;
+}
+
+.daily-event-content {
+    flex: 1;
+}
+
+.daily-event-content h5 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #343a40;
+}
+
+.daily-event-content p {
+    font-size: 14px;
+    color: #6c757d;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.daily-event-content .event-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 12px;
+    color: #6c757d;
+}
+
+.daily-event-content .event-meta i {
+    margin-right: 4px;
+    color: #ff6b35;
+}
+
+.daily-event-item.past .daily-event-content .event-meta i {
+    color: #6c757d;
+}
+
+.daily-event-item.karadelik .daily-event-content .event-meta i {
+    color: #6f42c1;
+}
+
+.daily-event-item.kulucka .daily-event-content .event-meta i {
+    color: #17a2b8;
+}
+
+.daily-event-item.special .daily-event-content .event-meta i {
+    color: #ffc107;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .calendar-header h3 {
+        font-size: 18px;
+    }
+    
+    .calendar-nav button {
+        width: 32px;
+        height: 32px;
+        font-size: 14px;
+    }
+    
+    .calendar-grid {
+        height: 250px;
+    }
+    
+    .calendar-day {
+        padding: 3px 2px;
+    }
+    
+    .day-number {
+        font-size: 11px;
+    }
+    
+    .event-indicator {
+        width: 4px;
+        height: 4px;
+    }
+    
+    .event-indicators .event-indicator {
+        width: 3px;
+        height: 3px;
+    }
+    
+    .event-tabs {
+        flex-wrap: wrap;
+    }
+    
+    .event-tab {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+    
+    .event-item {
+        padding: 15px;
+    }
+    
+    .event-title {
+        font-size: 16px;
+    }
+    
+    .event-meta {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .modal-content {
+        padding: 20px;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .calendar-grid {
+        height: 200px;
+    }
+    
+    .day-number {
+        font-size: 10px;
+    }
+    
+    .calendar-day {
+        padding: 2px 1px;
+    }
+}
+
+/* Karadelik ve Kuluçka etkinlik türleri için özel renkler */
+.event-item.karadelik {
+    border-left-color: #6f42c1;
+}
+
+.event-item.karadelik .event-date,
+.event-item.karadelik .event-meta i {
+    color: #6f42c1;
+}
+
+.calendar-day.has-event.karadelik {
+    background: linear-gradient(135deg, #6f42c1, #8e44ad);
+}
+
+.event-item.kulucka {
+    border-left-color: #17a2b8;
+}
+
+.event-item.kulucka .event-date,
+.event-item.kulucka .event-meta i {
+    color: #17a2b8;
+}
+
+.calendar-day.has-event.kulucka {
+    background: linear-gradient(135deg, #17a2b8, #138496);
+}
+
+/* Modal Event Image Styles */
+.modal-event-image {
+    width: 100%;
+    max-height: 250px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+}
+
+.modal-event-image img {
+    width: 100%;
+    height: auto;
+    max-height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.modal-event-image img:hover {
+    transform: scale(1.02);
+}
+
+/* Event List Image Styles */
+.event-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    overflow: hidden;
+    flex-shrink: 0;
+    margin-right: 15px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+/* Fotoğrafsız etkinlik kartları için tam genişlik içerik */
+.event-content-full {
+    width: 100%;
+    padding: 20px;
+}
+
+.event-type-badge-inline {
+    display: inline-block;
+    background: linear-gradient(135deg, #ff6b35, #f7931e);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.event-content-full .event-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.event-content-full .event-date {
+    color: #666;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.event-content-full .event-description {
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 12px;
+}
+
+.event-content-full .event-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.event-content-full .event-meta span {
+    font-size: 13px;
+    color: #666;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.event-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.event-image:hover img {
+    transform: scale(1.1);
+}
+
+.image-count-badge {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    background: rgba(0,0,0,0.7);
+    color: white;
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 12px;
+    font-weight: 600;
+}
+
+/* Modal Image Gallery Styles */
+.modal-image-gallery {
+    margin-bottom: 20px;
+}
+
+.main-image {
+    position: relative;
+    width: 100%;
+    max-height: 300px;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    background-color: #f8f9fa;
+}
+
+.main-image img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: cover;
+    display: block;
+}
+
+.image-counter {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(0,0,0,0.7);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.gallery-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.5);
+    border: none;
+    color: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery-nav:hover {
+    background: rgba(0,0,0,0.7);
+    transform: translateY(-50%) scale(1.1);
+}
+
+.gallery-nav.prev {
+    left: 10px;
+}
+
+.gallery-nav.next {
+    right: 10px;
+}
+
+.thumbnail-strip {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 5px 0;
+}
+
+.thumbnail {
+    width: 60px;
+    height: 60px;
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    flex-shrink: 0;
+}
+
+.thumbnail.active {
+    opacity: 1;
+    border-color: #ff6b35;
+    transform: scale(1.05);
+}
+
+.thumbnail:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+.thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Responsive adjustments for images */
+@media (max-width: 768px) {
+    .modal-event-image {
+        max-height: 200px;
+        margin-bottom: 15px;
+    }
+    
+    .modal-event-image img {
+        max-height: 200px;
+    }
+    
+    .event-image {
+        width: 60px;
+        height: 60px;
+        margin-right: 12px;
+    }
+}
