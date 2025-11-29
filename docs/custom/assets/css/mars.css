@@ -47,6 +47,38 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+/* Yeni katılan iller için etiket */
+.badge-new {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #e74c3c; /* Kırmızı renk */
+    color: white;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    z-index: 10;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Yıl seçim kutusu tasarımı */
+.year-selector-container {
+    position: absolute;
+    top: 0;
+    right: 15px;
+}
+
+@media (max-width: 768px) {
+    .year-selector-container {
+        position: relative;
+        text-align: center;
+        margin-bottom: 20px;
+        right: 0;
+    }
+}
+
+
 body {
   margin: 0;
   font-family: 'Cardium A Regular', sans-serif;
