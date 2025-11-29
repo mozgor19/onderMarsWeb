@@ -518,13 +518,22 @@
     </section> -->
     <!-- End of Team Sectoin -->
 	
-	<!-- Team Section 2025-2026 -->
-    <section id="team">
+<section id="team" style="position: relative;">
         <div class="container">
-            <h6 class="section-subtitle text-center">MARS Projesi</h6>
-            <h6 class="section-subtitle text-center">2025-2026 Dönemi</h6>
-            <h6 class="section-title mb-5 text-center">Öğrenci Liderleri</h6>
-            <div class="row">
+            
+            <div class="position-relative mb-5">
+                <h6 class="section-subtitle text-center">MARS Projesi</h6>
+                <h6 class="section-title text-center">Öğrenci Liderleri</h6>
+                
+                <div class="year-selector-container">
+                    <select id="yearSelect" class="form-control" onchange="toggleTeamYear()">
+                        <option value="2025" selected>2025-2026 Dönemi</option>
+                        <option value="2024">2024-2025 Dönemi</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="team-2025" class="row">
                 
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
@@ -535,16 +544,15 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/man.jpeg" alt="Öğrenci Lideri">
                         <div class="card-body">
                             <h6 class="small text-primary font-weight-bold">İstanbul</h6>
-                            <h5 class="card-title">Semih Erdem Çamur</h5> </div>
+                            <h5 class="card-title">Semih Erdem Çamur</h5>
+                        </div>
                     </div>
                 </div>
-
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
@@ -554,13 +562,50 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
                         <div class="card-body">
                             <h6 class="small text-primary font-weight-bold">İstanbul</h6>
                             <h5 class="card-title">Neslişah Sultan Bulut</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <span class="badge-new">YENİ İL</span> <img class="card-img-top inset" src="assets/imgs/man.jpeg" alt="Öğrenci Lideri">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Erzurum</h6>
+                            <h5 class="card-title">Fatih Günek</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <span class="badge-new">YENİ İL</span> <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Erzurum</h6>
+                            <h5 class="card-title">Şeyda Nur Kuzeytemiz</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <span class="badge-new">YENİ İL</span> <img class="card-img-top inset" src="assets/imgs/man.jpeg" alt="Öğrenci Lideri">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Gaziantep</h6>
+                            <h5 class="card-title">Mustafa Ağdemir</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <span class="badge-new">YENİ İL</span> <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Gaziantep</h6>
+                            <h5 class="card-title">Gülistan Yılmaz</h5>
                         </div>
                     </div>
                 </div>
@@ -574,7 +619,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
@@ -594,7 +638,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
@@ -609,52 +652,11 @@
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/man.jpeg" alt="Öğrenci Lideri">
                         <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Erzurum</h6>
-                            <h5 class="card-title">Fatih Günek</h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Erzurum</h6>
-                            <h5 class="card-title">Şeyda Nur Kuzeytemiz</h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg" alt="Öğrenci Lideri">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Gaziantep</h6>
-                            <h5 class="card-title">Mustafa Ağdemir</h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Gaziantep</h6>
-                            <h5 class="card-title">Gülistan Yılmaz</h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg" alt="Öğrenci Lideri">
-                        <div class="card-body">
                             <h6 class="small text-primary font-weight-bold">Antalya</h6>
                             <h5 class="card-title">Furkan Çetin</h5>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
@@ -674,19 +676,133 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="col-sm-6 col-md-3">
                     <div class="card text-center mb-4">
                         <img class="card-img-top inset" src="assets/imgs/woman.jpeg" alt="Öğrenci Lideri">
                         <div class="card-body">
                             <h6 class="small text-primary font-weight-bold">Konya</h6>
-                            <h5 class="card-title">Ezgi Küçükkeleş</h5> </div>
+                            <h5 class="card-title">Ezgi Küçükkeleş</h5>
+                        </div>
+                    </div>
+                </div>
+            </div> <div id="team-2024" class="row d-none">
+                
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
+                            <h5 class="card-title">A. Eymen Asru</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
+                            <h5 class="card-title">M. Akif Sarıkaya</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
+                            <h5 class="card-title">Şevval Şahin</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
+                            <h5 class="card-title">Lütuf Canan Budak</h5>
+                        </div>
                     </div>
                 </div>
 
-            </div>
-        </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Konya</h6>
+                            <h5 class="card-title">Furkan Bakırtaş</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Konya</h6>
+                            <h5 class="card-title">Enise Ebrar Uygun</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Antalya</h6>
+                            <h5 class="card-title">Furkan Çetin</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Antalya</h6>
+                            <h5 class="card-title">Merve Özokudan</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Samsun</h6>
+                            <h5 class="card-title">Berk Caniklioğlu</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Samsun</h6>
+                            <h5 class="card-title">Ayşegül Akıncı</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Sivas</h6>
+                            <h5 class="card-title">M. Mustafa Pürlü</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="card text-center mb-4">
+                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
+                        <div class="card-body">
+                            <h6 class="small text-primary font-weight-bold">Sivas</h6>
+                            <h5 class="card-title">Meryem Aslan</h5>
+                        </div>
+                    </div>
+                </div>
+
+            </div> </div>
     </section>
+
     <!-- End of Team Sectoin -->
 
     <!-- Fatcs Section
@@ -960,6 +1076,23 @@ End of Testimonial Section -->
 
     <script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
     <script src="assets/js/mars.js"></script>
+
+	<!-- Team Selection -->
+    <script>
+    function toggleTeamYear() {
+        var year = document.getElementById("yearSelect").value;
+        var team2025 = document.getElementById("team-2025");
+        var team2024 = document.getElementById("team-2024");
+
+        if (year === "2025") {
+            team2025.classList.remove("d-none"); // 2025'i göster
+            team2024.classList.add("d-none");    // 2024'ü gizle
+        } else {
+            team2025.classList.add("d-none");    // 2025'i gizle
+            team2024.classList.remove("d-none"); // 2024'ü göster
+        }
+    }
+   </script>
 
     <!-- Popup içeriği 
     <div id="application-popup" class="popup-container">
