@@ -103,7 +103,7 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 - İsa Yılmaz, İstanbul Bilgi Üniversitesi ve University of London çift diploma programı kapsamında 2013 yılında İşletme-Ekonomi Bölümünde Üstün Başarı Programında London School of Economics (LSE) akademik rehberliğinde lisans eğitimini tamamladı. Durham Üniversitesi İslami Finans Bölümünde 2014 yılında “İslami Sosyal Refah Fonksiyonunu Oluşturmak: İslam Ahlak Ekonomisi Açısından Bir Değerlendirme” konulu teziyle yüksek lisans derecesi ve 2019 yılında “İslam Ahlak Ekonomisine Dair: Kalkınmacı Vaatler, Finansallaşma Yanılgısı ve Metodolojik Açmazlar” konulu teziyle doktora derecesi aldı. Hâlen İstanbul Medeniyet Üniversitesi İktisat Bölümünde doçent olarak görev yapmaktadır. Ekonomik kalkınma, finansallaşma ve İslam politik ekonomisi üzerine çeşitli akademik makaleler yayınlamıştır. Ayrıca, gelişmekte olan ekonomiler için adil kalkınma ve refah sonuçları olan özgün modeller öngörmeye çalışan alternatif ekonomik ve finansal sistemleri araştırmaktadır. Bu alanları keşfetmek için ahlaki ekonomi, politik ekonomi, iktisat felsefesi ve alternatif bankacılık ve finans modelleri konularına ilgi duymaktadır.
 
 - <figure markdown="span">
-    ![İsa Yılmaz](img/isa-yilmaz.jpg)
+    ![İsa Yılmaz](img/isa-yilmaz.png)
     <figcaption><a href="https://scholar.google.com/citations?user=2HmhaOYAAAAJ&hl=en" target="_blank">Doç. Dr. İsa Yılmaz</figcaption>
   </figure>
 
