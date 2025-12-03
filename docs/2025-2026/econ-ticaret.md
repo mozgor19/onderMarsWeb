@@ -1,6 +1,6 @@
 ---
 title: Ekonomi ve Ticaret
-description: Ekonomi ve Ticaret 2025-2026
+description: başlık 1
 ---
 
 # **Ekonomi ve Ticaret**
@@ -31,7 +31,7 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 ---
 
-**Başlık:** Is Capitalism Actually Broken? – TED-Ed
+**Başlık:** Is Capitalism Actually Broken?
 
 **İçerik Türü:** Eğitici Video
 
@@ -53,7 +53,7 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 ---
 
-**Başlık:** How Does the Stock Market Work? – Oliver Elfenbaum
+**Başlık:** How Does the Stock Market Work?
 
 **İçerik Türü:** Video
 
@@ -64,7 +64,7 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 
 ---
 
-**Başlık:** How Islamic Finance Actually Works – Almir Colan
+**Başlık:** How Islamic Finance Actually Works
 
 **İçerik Türü:** Video
 
