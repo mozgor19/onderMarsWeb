@@ -5,7 +5,7 @@ description: başlık 1
 
 # **Ekonomi ve Ticaret**
 
-_Bu başlık İstanbul Çalıştay'ına dahildir_
+_Bu başlık İstanbul Çalıştayına dahildir_
 
 ## Karadelik Haftası
 
