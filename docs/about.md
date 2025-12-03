@@ -1,20 +1,31 @@
-# MARS Projesi | Eğitim İçerikleri Hakkında
+# MARS Eğitim Modeli
 
-## Karadelik Haftası
+MARS Projesi; düşünmek ve üretmek üzerine kurulu, disiplinler arası bir keşif yolculuğudur. Eğitim modelimiz, öğrencilerin sadece teorik bilgi edinmelerini değil; bu bilgiyi sosyal girişimcilik becerileriyle harmanlayarak toplumsal faydaya dönüştürmelerini hedefler.
 
-Karadelik haftası kapsamında 5 farklı ilde yer alan öğrencilerin proje arkadaşlarıyla aynı vakitte o hafta özelinde belirlenen bir konu üzerinde yoğunlaşarak tahlil yapmaları hedeflenmektedir. Karadelik çalışmaları öğrencilerin bir konuyu derinlemesine araştırma ve farklı bakış açılarını göz önünde bulundurma fırsatı sunar. Seçilen içeriğe uygun karadelik konusu belirlenir ve içerik üzerinden bu konu tartışılır. Öğrencilere kritik sorular yöneltilir. Farklı fikir ve düşüncelerin bir araya gelmesiyle öğrencilerin işbirliğinin ve iletişim becerilerinin gelişmesine olanak sağlar. Kuluçka haftası kapsamında yapılacak içerik tahlilleri öğrencileri sosyal girişim ve girişkenlik konularında düşünmeye, anlamaya ve ilham almaya teşvik edecektir.
+Sürecimiz birbirini tamamlayan üç temel eğitim halkasından oluşur:
 
+## 1. Karadelik Haftaları
+
+Karadelik Haftaları, **7 farklı ilde** yer alan öğrencilerin proje arkadaşlarıyla **eş zamanlı** olarak belirlenen bir konu üzerinde yoğunlaştıkları entelektüel bir laboratuvardır.
+
+Bu haftalarda öğrenciler, seçilen temayı (Medya, Hukuk, Ekonomi vb.) derinlemesine araştırır ve "Lider El Raporu" rehberliğinde kritik sorular üzerinden tartışırlar. Farklı fikirlerin bir araya geldiği bu ortam, öğrencilerin sadece analitik düşünme değil, aynı zamanda **iş birliği ve iletişim becerilerini** de geliştirmelerine olanak sağlar.
+
+* **Hedef:** Analitik düşünme, iş birliği, çok yönlü bakış açısı ve ortak çalışma kültürü.
+
+## 2. Kuluçka Haftaları
+
+Karadelik haftasında teorik altyapısı kurulan konuların, alanında uzman akademisyen ve eğitmenlerle buluştuğu vizyon aşamasıdır. Çevrim içi gerçekleşen bu buluşmalarda öğrenciler; sadece teknik bilgi değil, aynı zamanda **sosyal girişkenlik, zaman yönetimi, kariyer planlama ve özgüven geliştirme** gibi alanlarda yetkinlik kazanırlar.
+
+Bu oturumlar, öğrencilerin ilgi duydukları alanlarda **somut adımlar** atmalarını, geleceğe dair gerçekçi planlar yapmalarını ve küresel meselelere yenilikçi çözümler üretmelerini destekler.
+
+* **Hedef:** Yenilikçi düşünme, sosyal sorumluluk bilinci, profesyonel ağ kurma ve kariyer vizyonu.
+
+## 3. Süpernova Haftaları
+
+Süpernova, MARS eğitim modelinin sahaya inen yüzüdür. Bu haftalar, öğrencilerin **keyifli vakit geçirerek** yeni deneyimler kazanacakları, sanatsal, sportif ve kültürel faaliyetlerle (doğa yürüyüşleri, el becerileri vb.) beslenecekleri bir süreçtir.
+
+Süpernova sadece bir gezi değil, aynı zamanda bir **üretim sürecidir**. Öğrenciler; bir medya ajansında işleyişi gözlemlerken veya bir fanzin atölyesinde kendi dergisini tasarlarken hem dinlenir hem de yaparak öğrenmenin tadını çıkarır.
+
+* **Hedef:** Uygulamalı öğrenme, üretim becerisi, saha deneyimi ve kültürel gelişim.
 
 ---
-
-## Kuluçka Haftası
-
-Kuluçka haftası sosyal girişimcilik konseptinde dersler içeren, öğrencilerle gerçekleştireceğimiz Kuluçka Haftalarında sosyal girişkenlik, zaman yönetimi, ekip çalışması, iletişim becerileri, kariyer sohbetleri, özgüven geliştirme şeklinde alt dallar belirleyerek alanında uzman akademisyen, eğitmen ve temsilciler aracılığıyla eğitim niteliğinde bir program gerçekleşmesi hedeflenmektedir.
-
-Bu dersler kapsamında öğrencilere ilgi duydukları konulara somut adımlar atmalarını, geleceğe yönelik tasarılarını gerçekleştirme yolunda daha gerçekçi bir yaklaşım sunmayı hedeflemekteyiz. İnovatif bir düşünme becerisi kazanmaya ve gelecek odaklı yeni fikirlerin ortaya konmasına zemin hazırlayacaktır. Öğrencilere, sosyal sorumluluk bilinciyle çıktıkları bu yolda toplumsal sorunlara yönelik fikir edinme, araştırma, değerlendirme ve ekip arkadaşlarıyla etkili bir iletişim ortamı hazırlama fırsatı sunacaktır
-
----
-
-## Süpernova Haftası
-
-Süpernova haftası, öğrencilerin keyifli vakit geçirecekleri, dinlenecekleri, hobilerine zaman ayırabilmeleri, yeni ve farklı deneyim kazanacakları bir süreçtir. Projenin aktivite bölümünde sanatsal, sportif, kültürel (doğa yürüyüşleri, el becerileri vb.) faaliyetlere yer verilmektedir.
