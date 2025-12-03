@@ -5,7 +5,7 @@ description: Başlık 2
 
 # **Medya ve İletişim**
 
-_Bu başlık İstanbul Çalıştay'ına dahildir_
+_Bu başlık İstanbul Çalıştayına dahildir_
 
 ## Karadelik Haftası
 
