@@ -82,11 +82,11 @@ _Bu başlık İstanbul Çalıştay'ına dahildir_
 !!! info ""
     Hz. Peygamber’in ticaret anlayışındaki dürüstlük, güven ve adalet ilkelerini öğrenmek.
 
-<div class="grid cards" markdown>
+<embed src="pdfs/hz-peygamber-ahlaki-kisa.pdf" type="application/pdf" width="100%" height="600px">
 
-- <a href="https://dergipark.org.tr/tr/download/article-file/4437723" class="md-button md-button--primary" target="_blank">Makaleyi İndir: Hz. [cite_start]Peygamber’in Ticaret Ahlakının Esasları</a> [cite: 89]
+??? quote "Erişim"
 
-</div>
+    [Makalenin tamamına bu linkten erişilebilir](https://dergipark.org.tr/tr/download/article-file/4437723)
 
 ---
 
