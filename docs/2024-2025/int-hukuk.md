@@ -5,7 +5,7 @@ description: Başlık 1
 
 # **Uluslararası Hukuk**
 
-_Bu başlık İstanbul Çalıştay'ına dahildir_
+_Bu başlık İstanbul Çalıştayına dahildir_
 
 ## Karadelik Haftası
 
