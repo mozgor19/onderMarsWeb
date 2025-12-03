@@ -5,20 +5,13 @@ base-url: /
 nav:
   - Anasayfa: index.md
   - Eğitim: about.md
-  
-  # Yeni Dönem
-  - 2025-2026 Dönemi:
-      - Ekonomi ve Ticaret: 2025-2026/econ-ticaret.md
-
-  # Eski Dönem
-  - 2024-2025 Dönemi:
-      - Uluslararası Hukuk: 2024-2025/int-hukuk.md
-      - Medya ve İletişim: 2024-2025/medya-iletisim.md
-      - Ekonomi ve Ticaret: 2024-2025/econ-ticaret.md
-      - Sanat ve Zanaat: 2024-2025/sanat-zanaat.md
-      - Edebiyat: 2024-2025/edebiyat.md
-      - Sürdürülebilirlik: 2024-2025/surdurulebilirlik.md
-      - Sanayi ve Teknoloji: 2024-2025/sanayi-teknoloji.md
+  - Uluslararası Hukuk: int-hukuk.md
+  - Medya ve İletişim: medya-iletisim.md
+  - Ekonomi ve Ticaret: econ-ticaret.md
+  - Sanat ve Zanaat: sanat-zanaat.md
+  - Edebiyat: edebiyat.md
+  - Sürdürülebilirlik: surdurulebilirlik.md
+  - Sanayi ve Teknoloji: sanayi-teknoloji.md
   #- Psikoloji ve Sosyoloji: psy-soc.md
   #- Tarih: hist.md
 
