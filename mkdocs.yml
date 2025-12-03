@@ -4,7 +4,7 @@ base-url: /
 
 nav:
   - Anasayfa: index.md
-  - Eğitim Hakkında: about.md
+  - Eğitim: about.md
   
   # Yeni Dönem
   - 2025-2026 Dönemi:
