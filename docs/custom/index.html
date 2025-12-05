@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <!-- Google tag (gtag.js) -->
+     <!-- Google tag (gtag.js) / Data toplama başlangıcı -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3J2J2CFL5C"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -9,6 +9,7 @@
         gtag('js', new Date());
     gtag('config', 'G-3J2J2CFL5C');
     </script>
+	 <!-- Data toplama bitişi -->
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="insan odaklı sosyal girişimcilik ve kuluçka merkezi">
@@ -18,14 +19,14 @@
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
 
-
     <!-- Bootstrap + Creative Studio main styles -->
 	<link rel="stylesheet" href="assets/css/mars.css">
 
     <!-- Favicon ayarı -->
     <link rel="icon" href="assets/imgs/favicon.png" type="image/png">
 
-    <!-- Popup başvuru ekranı -->
+    <!-- Popup başvuru ekranı-->
+	<!-- Sayfanon en altında bunu aktif etmek için kod var. Yıl başlarında en alttaki script'i aktif ederek başvuru popup devreye alınabilir -->
     <style>
         .popup-container {
             position: fixed;
@@ -33,53 +34,53 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 0, 0, 0.7); /* Arka planı karartır */
-            z-index: 1050; /* Diğer elementlerin üzerinde kalması için */
-            display: none; /* Varsayılan olarak gizli */
+            background-color: rgba(0, 0, 0, 0.7); 
+            z-index: 1050;
+            display: none;
             justify-content: center;
             align-items: center;
-            padding: 15px; /* Küçük ekranlarda içerik kenarlara yapışmasın diye */
-            box-sizing: border-box; /* Padding dahil boyutu hesapla */
+            padding: 15px;
+            box-sizing: border-box;
         }
         .popup-content {
             position: relative;
             background-color: #fff;
             border-radius: 8px;
             box-shadow: 0 5px 15px rgba(0,0,0,.5);
-            padding: 0; /* Resmin kendi içeriği olduğu için iç boşluk olmasın */
-            text-align: center; /* Resmin ortalanması için */
+            padding: 0;
+            text-align: center;
 
             /* Masaüstü için maksimum genişlik */
-            max-width: 600px; /* İstediğiniz boyuta göre ayarlayabilirsiniz */
-            width: 100%; /* İçeriği doldurması için */
+            max-width: 600px; 
+            width: 100%; 
 
             /* Maksimum yükseklik ayarı */
-            max-height: 90vh; /* Ekran yüksekliğinin %90'ı */
-            overflow-y: auto; /* İçerik taşarsa kaydırma çubuğu çıkar */
+            max-height: 90vh;
+            overflow-y: auto;
         }
         .popup-content img {
             max-width: 100%;
             height: auto;
-            display: block; /* Gereksiz boşlukları engeller */
-            border-radius: 8px; /* Pop-up'ın border-radius'una uygun */
+            display: block; 
+            border-radius: 8px;
         }
         .popup-close {
             position: absolute;
-            top: 5px; /* Üstten biraz boşluk */
-            right: 5px; /* Sağdan biraz boşluk */
+            top: 5px;
+            right: 5px;
             width: 30px;
             height: 30px;
-            background-color: rgba(255, 255, 255, 0.8); /* Arka planı biraz şeffaf yap */
-            color: #333; /* Daha koyu renkli 'X' */
+            background-color: rgba(255, 255, 255, 0.8); 
+            color: #333; 
             border-radius: 50%;
             text-align: center;
             line-height: 30px;
-            font-size: 20px; /* Boyutunu biraz küçült */
+            font-size: 20px; 
             font-weight: bold;
             cursor: pointer;
             border: 1px solid #ccc;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Hafif gölge ekle */
-            z-index: 1060; /* Resmin üzerinde kalması için */
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
+            z-index: 1060;
         }
         .popup-close:hover {
             background-color: #f1f1f1;
@@ -89,7 +90,7 @@
         /* Küçük ekranlar (mobil) için responsive ayarlar */
         @media (max-width: 768px) {
             .popup-content {
-                max-width: 95%; /* Mobil cihazlarda daha geniş olabilir */
+                max-width: 95%; 
             }
             .popup-close {
                 top: 5px;
@@ -138,15 +139,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="https://onder.org.tr/komisyonlar/onder-genc">Önder Genç</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="#testimonial">Testimonial</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#blog">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
-                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link-edu btn btn-primary btn-sm ml-lg-3" href="/about.html">Eğitim İçerikleri</a>
                     </li>
@@ -197,7 +189,6 @@
                     <img src="assets/imgs/vision.jpeg" alt="resim1" class="w-100 img-thumbnail mb-3">
                 </div>
                 <div class="col-md-7 col-lg-8">
-                    <!--<h6 class="section-subtitle mb-0">MARS</h6>-->
                     <h6 class="section-title mb-3">Vizyon</h6>
                     <p> Öğrencilerin farklı alanları deneyimleyerek kendilerini keşfetmelerini ve geliştirmelerini sağlayacak, imam hatiplilik şuuru çatısı altında toplanacak, ekip çalışmaları ile sorumluluk alacakları bir ortamın tahsis edilmesi hedeflenmektedir.</p>
                     <br><br>
@@ -320,205 +311,10 @@
         </div>
     </section>
     <!-- End of Service Section -->
-
-    <!-- Portfolio section
-    <section id="portfolio">
-        <div class="container text-center">
-            <h6 class="section-subtitle">Our Awesome Works</h6>
-            <h6 class="section-title mb-5">Our Portfolio</h6>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="img-wrapper">
-                        <img src="assets/imgs/folio-1.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">
-                        <div class="overlay">
-                            <div class="overlay-infos">
-                                <h5>Project Title</h5>
-                                <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
-                                <a href="javascript:void(0)"><i class="ti-link"></i></a>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="img-wrapper">
-                        <img src="assets/imgs/folio-2.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">
-                        <div class="overlay">
-                            <div class="overlay-infos">
-                                <h5>Project Title</h5>
-                                <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
-                                <a href="javascript:void(0)"><i class="ti-link"></i></a>
-                            </div>                              
-                        </div>
-                    </div>                  
-                </div>
-                <div class="col-sm-4">
-                    <div class="img-wrapper">
-                        <img src="assets/imgs/folio-3.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">
-                        <div class="overlay">
-                            <div class="overlay-infos">
-                                <h5>Project Title</h5>
-                                <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
-                                <a href="javascript:void(0)"><i class="ti-link"></i></a>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="img-wrapper">
-                        <img src="assets/imgs/folio-4.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">
-                        <div class="overlay">
-                            <div class="overlay-infos">
-                                <h5>Project Title</h5>
-                                <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
-                                <a href="javascript:void(0)"><i class="ti-link"></i></a>
-                            </div>                              
-                        </div>
-                    </div>                  
-                </div>
-                <div class="col-sm-4">
-                    <div class="img-wrapper">
-                        <img src="assets/imgs/folio-5.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">
-                        <div class="overlay">
-                            <div class="overlay-infos">
-                                <h5>Project Title</h5>
-                                <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
-                                <a href="javascript:void(0)"><i class="ti-link"></i></a>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="img-wrapper">
-                        <img src="assets/imgs/folio-6.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">
-                        <div class="overlay">
-                            <div class="overlay-infos">
-                                <h5>Project Title</h5>
-                                <a href="javascript:void(0)"><i class="ti-zoom-in"></i></a>
-                                <a href="javascript:void(0)"><i class="ti-link"></i></a>
-                            </div>                              
-                        </div>
-                    </div>                  
-                </div>
-            </div>
-        </div>
-    </section>
-    End of portfolio section -->
-
-    <!-- Team Section 2024-2025
-    <section id="team">
-        <div class="container">
-            <h6 class="section-subtitle text-center">MARS Projesi</h6>
-            <h6 class="section-subtitle text-center">2024-2025 Dönemi</h6>
-            <h6 class="section-title mb-5 text-center">Öğrenci Liderleri</h6>
-            <div class="row">
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
-                            <h5 class="card-title">A. Eymen Asru</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
-                            <h5 class="card-title">M. Akif Sarıkaya</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
-                            <h5 class="card-title">Şevval Şahin</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">İstanbul</h6>
-                            <h5 class="card-title">Lütuf Canan Budak</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Konya</h6>
-                            <h5 class="card-title">Furkan Bakırtaş</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Konya</h6>
-                            <h5 class="card-title">Enise Ebrar Uygun</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Antalya</h6>
-                            <h5 class="card-title">Furkan Çetin</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Antalya</h6>
-                            <h5 class="card-title">Merve Özokudan</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Samsun</h6>
-                            <h5 class="card-title">Berk Caniklioğlu</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Samsun</h6>
-                            <h5 class="card-title">Ayşegül Akıncı</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4 card-bg-1">
-                        <img class="card-img-top inset" src="assets/imgs/man.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Sivas</h6>
-                            <h5 class="card-title">M. Mustafa Pürlü</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="card text-center mb-4">
-                        <img class="card-img-top inset" src="assets/imgs/woman.jpeg">
-                        <div class="card-body">
-                            <h6 class="small text-primary font-weight-bold">Sivas</h6>
-                            <h5 class="card-title">Meryem Aslan</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- End of Team Sectoin -->
 	
-<section id="team" style="position: relative;">
+    <!-- Team Section -->
+	
+	<section id="team" style="position: relative;">
         <div class="container">
             
             <div class="position-relative mb-5">
@@ -802,71 +598,7 @@
 
             </div> </div>
     </section>
-
     <!-- End of Team Sectoin -->
-
-    <!-- Fatcs Section
-    <section class="has-bg-img bg-img-2">
-        <div class="container text-center">
-            <h6 class="section-subtitle">We Are Awesome</h6>
-            <h6 class="section-title mb-6">Some Fun Fucts</h6>
-                <div class="widget-2">
-                    <div class="widget-item">
-                        <i class="ti-cup"></i>
-                        <h6 class="title">100+</h6>
-                        <div class="subtitle">Awards Won</div>
-                    </div>
-                    <div class="widget-item">
-                        <i class="ti-face-smile"></i>
-                        <h6 class="title">100+</h6>
-                        <div class="subtitle">Happy Clients</div>
-                    </div>
-                    <div class="widget-item">
-                        <i class="ti-blackboard"></i>
-                        <h6 class="title">845+</h6>
-                        <div class="subtitle">Project Completed</div>
-                    </div>
-                    <div class="widget-item">
-                        <i class="ti-comments-smiley"></i>
-                        <h6 class="title">15K+</h6>
-                        <div class="subtitle">Comments</div>
-                    </div>
-                </div>
-        </div>
-    </section>
-
-    <!-- Testimonial Section
-    <section id="testimonial">
-        <div class="container">
-            <h6 class="section-subtitle text-center">Testimonial</h6>
-            <h6 class="section-title text-center mb-6">What Our Clients Says</h6>
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="testimonial-wrapper">
-                        <div class="img-holder">
-                            <img src="assets/imgs/avatar-5.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">                     
-                        </div>
-                        <div class="body">
-                            <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque doloribus autem aperiam earum nostrum omnis blanditiis corporis perspiciatis adipisci nihil.</p>
-                            <h6 class="title">Richard Reb</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="testimonial-wrapper">
-                        <div class="img-holder">
-                            <img src="assets/imgs/avatar-6.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Creative studio Landing page">                     
-                        </div>
-                        <div class="body">
-                            <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque doloribus autem aperiam earum nostrum omnis blanditiis corporis perspiciatis adipisci nihil.</p>
-                            <h6 class="title">John Doe</h6>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-End of Testimonial Section -->
 
     <!-- Video Section
     <section class="has-bg-img py-lg">
@@ -890,7 +622,7 @@ End of Testimonial Section -->
     </div>
     <!-- end of modal -->
 
-    <!-- Blog Section
+    <!-- Blog Section     <!-- End of Blog Section -->
     <section id="blog">
         <div class="container">
             <h6 class="section-subtitle text-center">News Feeds</h6>
@@ -942,65 +674,8 @@ End of Testimonial Section -->
             </div>
         </div>
     </section>
-    <!-- End of Blog Section -->
 
-    <!-- Contact Section
-    <section id="contact">
-        <div class="container">
-            <div class="contact-card">
-                <div class="infos">
-                    <h6 class="section-subtitle">Get Here</h6>
-                    <h6 class="section-title mb-4">Contact Us</h6>
 
-                    <div class="item">
-                        <i class="ti-location-pin"></i>
-                        <div class="">
-                            <h5>Location</h5>
-                            <p> 12345 Fake ST NoWhere AB Country</p>
-                        </div>                          
-                    </div>
-                    <div class="item">
-                        <i class="ti-mobile"></i>
-                        <div>
-                            <h5>Phone Number</h5>
-                            <p>(123) 456-7890</p>
-                        </div>                          
-                    </div>
-                    <div class="item">
-                        <i class="ti-email"></i>
-                        <div class="mb-0">
-                            <h5>Email Address</h5>
-                            <p>info@website.com</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <i class="ti-world"></i>
-                        <div class="mb-0">
-                            <h5>example.com</h5>
-                            <p>info@example.com</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="form">
-                    <h6 class="section-subtitle">Available 24/7</h6>
-                    <h6 class="section-title mb-4">Get In Touch</h6>
-                    <form>
-                        <div class="form-group">
-                            <input type="email" class="form-control form-control-lg" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
-                        </div>
-                        <div class="form-group">
-                            <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" required>
-                        </div>
-                        <div class="form-group">
-                            <textarea name="contact-message" id="" cols="30" rows="7" class="form-control form-control-lg" placeholder="Message"></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-primary btn-block btn-lg mt-3">Send Message</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Contact Section -->
 
     <section class="has-bg-img py-0">
         <div class="container">
@@ -1021,28 +696,6 @@ End of Testimonial Section -->
                             </p>                   
                         </li>
                     </ul>
-                    <!--
-                    <ul class="list">
-                        <li class="list-head">
-                            <h6 class="font-weight-bold">USEFUL LINKS</h6>
-                        </li>
-                        <li class="list-body">
-                            <div class="row">
-                                <div class="col">
-                                    <a href="#about">About</a>
-                                    <a href="#service">Service</a>
-                                    <a href="#portfolio">Portfolio</a>
-                                    <a href="#testmonail">Testimonial</a>
-                                </div>
-                                <div class="col">
-                                    <a href="#team">Team</a>
-                                    <a href="#blog">Blog</a>
-                                    <a href="#">Faq</a>
-                                    <a href="#">Privacy Policy</a>                  
-                                </div>
-                            </div>
-                        </li>
-                    </ul>-->
                     <ul class="list">
                         <li class="list-head">
                             <h6 class="font-weight-bold">İletişim</h6>
@@ -1109,24 +762,12 @@ End of Testimonial Section -->
             const popup = document.getElementById('application-popup');
             const closeBtn = document.getElementById('close-popup');
 
-            // Sayfa yüklendiğinde pop-up'ı göster
-            // İsteğe bağlı: setTimeout ile birkaç saniye sonra da gösterebilirsiniz.
-            // Örneğin 2 saniye sonra göstermek için:
-            // setTimeout(function() {
-            //    popup.style.display = 'flex';
-            // }, 2000);
             popup.style.display = 'flex';
 
-
-            // Kapatma fonksiyonu
             function closePopup() {
                 popup.style.display = 'none';
             }
-
-            // 'X' butonuna tıklandığında pop-up'ı kapat
             closeBtn.addEventListener('click', closePopup);
-
-            // Pop-up dışındaki alana (gri alana) tıklandığında kapatmak için:
             popup.addEventListener('click', function(event) {
                 if (event.target === popup) {
                     closePopup();
